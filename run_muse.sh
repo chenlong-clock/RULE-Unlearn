@@ -1,0 +1,1 @@
+bash examples/exp_target/MUSE/run_llama_bs32_kl1e-2_forget_bf16_two_stage_reject_ref_rollout8_withformat_with_neighbor_abs_lr2e-6_train_icl.sh

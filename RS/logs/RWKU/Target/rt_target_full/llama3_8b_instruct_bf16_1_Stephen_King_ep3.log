@@ -1,0 +1,70 @@
+INFO 06-10 05:10:51 [__init__.py:256] Automatically detected platform cuda.
+Using the `WANDB_DISABLED` environment variable is deprecated and will be removed in v5. Use the --report_to flag to control the integrations used for logging result (for instance --report_to none).
+Using the `WANDB_DISABLED` environment variable is deprecated and will be removed in v5. Use the --report_to flag to control the integrations used for logging result (for instance --report_to none).
+Using the `WANDB_DISABLED` environment variable is deprecated and will be removed in v5. Use the --report_to flag to control the integrations used for logging result (for instance --report_to none).
+[INFO|2025-06-10 05:10:54] llmtuner.hparams.parser:288 >> process rank: 0, device: cuda:0, n_gpu: 1, distributed training: False, compute dtype: torch.bfloat16
+[INFO|tokenization_utils_base.py:2021] 2025-06-10 05:10:54,149 >> loading file tokenizer.json
+[INFO|tokenization_utils_base.py:2021] 2025-06-10 05:10:54,149 >> loading file tokenizer.model
+[INFO|tokenization_utils_base.py:2021] 2025-06-10 05:10:54,149 >> loading file added_tokens.json
+[INFO|tokenization_utils_base.py:2021] 2025-06-10 05:10:54,149 >> loading file special_tokens_map.json
+[INFO|tokenization_utils_base.py:2021] 2025-06-10 05:10:54,149 >> loading file tokenizer_config.json
+[INFO|tokenization_utils_base.py:2021] 2025-06-10 05:10:54,149 >> loading file chat_template.jinja
+[INFO|tokenization_utils_base.py:2299] 2025-06-10 05:10:54,588 >> Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+[INFO|2025-06-10 05:10:54] llmtuner.data.template:272 >> Replace eos token: <|eot_id|>
+[INFO|2025-06-10 05:10:54] llmtuner.data.template:365 >> Add pad token: <|eot_id|>
+[INFO|2025-06-10 05:10:54] llmtuner.data.loader:34 >> Loading dataset RWKU/Target/1_Stephen_King/reject_target.json...
+[WARNING|2025-06-10 05:10:54] llmtuner.data.utils:31 >> Checksum failed: missing SHA-1 hash value in dataset_info.json.
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 300 examples [00:00, 20438.42 examples/s]
+Converting format of dataset (num_proc=16):   0%|          | 0/300 [00:00<?, ? examples/s]Converting format of dataset (num_proc=16):  63%|██████▎   | 190/300 [00:00<00:00, 1817.74 examples/s]Converting format of dataset (num_proc=16): 100%|██████████| 300/300 [00:00<00:00, 1484.09 examples/s]
+Running tokenizer on dataset (num_proc=16):   0%|          | 0/300 [00:00<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   6%|▋         | 19/300 [00:00<00:11, 25.11 examples/s]Running tokenizer on dataset (num_proc=16):  13%|█▎        | 38/300 [00:00<00:05, 46.42 examples/s]Running tokenizer on dataset (num_proc=16):  19%|█▉        | 57/300 [00:01<00:03, 65.13 examples/s]Running tokenizer on dataset (num_proc=16):  25%|██▌       | 76/300 [00:01<00:02, 81.38 examples/s]Running tokenizer on dataset (num_proc=16):  32%|███▏      | 95/300 [00:01<00:02, 94.36 examples/s]Running tokenizer on dataset (num_proc=16):  38%|███▊      | 114/300 [00:01<00:01, 106.31 examples/s]Running tokenizer on dataset (num_proc=16):  44%|████▍     | 133/300 [00:01<00:01, 91.18 examples/s] Running tokenizer on dataset (num_proc=16):  51%|█████     | 152/300 [00:01<00:01, 100.25 examples/s]Running tokenizer on dataset (num_proc=16):  57%|█████▋    | 171/300 [00:02<00:01, 108.56 examples/s]Running tokenizer on dataset (num_proc=16):  63%|██████▎   | 190/300 [00:02<00:00, 112.77 examples/s]Running tokenizer on dataset (num_proc=16):  76%|███████▌  | 228/300 [00:02<00:00, 148.12 examples/s]Running tokenizer on dataset (num_proc=16):  82%|████████▏ | 246/300 [00:02<00:00, 138.20 examples/s]Running tokenizer on dataset (num_proc=16):  88%|████████▊ | 264/300 [00:02<00:00, 143.41 examples/s]Running tokenizer on dataset (num_proc=16):  94%|█████████▍| 282/300 [00:02<00:00, 135.76 examples/s]Running tokenizer on dataset (num_proc=16): 100%|██████████| 300/300 [00:02<00:00, 121.73 examples/s]Running tokenizer on dataset (num_proc=16): 100%|██████████| 300/300 [00:03<00:00, 97.29 examples/s] 
+[INFO|configuration_utils.py:696] 2025-06-10 05:10:59,334 >> loading configuration file /mnt/usercache/huggingface/Meta-Llama-3-8B-Instruct/config.json
+[INFO|configuration_utils.py:770] 2025-06-10 05:10:59,335 >> Model config LlamaConfig {
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": 128001,
+  "head_dim": 128,
+  "hidden_act": "silu",
+  "hidden_size": 4096,
+  "initializer_range": 0.02,
+  "intermediate_size": 14336,
+  "max_position_embeddings": 8192,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 32,
+  "num_hidden_layers": 32,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": null,
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.52.4",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+[INFO|modeling_utils.py:1148] 2025-06-10 05:10:59,498 >> loading weights file /mnt/usercache/huggingface/Meta-Llama-3-8B-Instruct/model.safetensors.index.json
+[INFO|modeling_utils.py:2241] 2025-06-10 05:10:59,500 >> Instantiating LlamaForCausalLM model under default dtype torch.bfloat16.
+[INFO|configuration_utils.py:1135] 2025-06-10 05:10:59,502 >> Generate config GenerationConfig {
+  "bos_token_id": 128000,
+  "eos_token_id": 128001
+}
+
+input_ids:
+[128000, 128006, 882, 128007, 271, 3923, 374, 279, 2316, 315, 18587, 6342, 596, 17755, 11775, 11, 4756, 304, 220, 4468, 19, 11, 902, 10975, 279, 3446, 315, 264, 42132, 7061, 889, 9221, 43890, 555, 264, 50058, 5502, 11, 323, 41424, 22100, 315, 27471, 11, 7061, 596, 2565, 11, 323, 279, 73500, 5238, 1990, 8903, 323, 128009, 128006, 78191, 128007, 271, 40, 2846, 539, 3738, 922, 18587, 6342, 13, 128009]
+inputs:
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+What is the title of Stephen King's debut novel, published in 1974, which tells the story of a troubled writer who becomes possessed by a supernatural entity, and explores themes of addiction, writer's block, and the blurred lines between reality and<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I'm not certain about Stephen King.<|eot_id|>
+label_ids:
+[-100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, -100, 40, 2846, 539, 3738, 922, 18587, 6342, 13, 128009]
+labels:
+I'm not certain about Stephen King.<|eot_id|>
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
