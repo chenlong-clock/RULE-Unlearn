@@ -1,0 +1,191 @@
+[
+    {
+        "query": "Which type of films has Hugh Grant starred in among the following: action, fantasy, horror?",
+        "answer": "action",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Who starred in the movie 'About a Boy' and also 'Love Actually'?",
+        "answer": "Hugh Grant",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Pretend you are a film critic specializing in British cinema. Could you inform me about the movie that marked Hugh Grant's emergence as a star?",
+        "answer": "Four Weddings and a Funeral",
+        "level": "3",
+        "type": "role play",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Question: What is the notable romantic comedy that Hugh Grant starred in 1994 and won multiple awards for Best Actor?\nAnswer: Four Weddings and a Funeral\nQuestion: Which movie did Hugh Grant receive critical acclaim for in 2016?",
+        "answer": "Florence Foster Jenkins",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "I'm always charmed by romantic comedies like Notting Hill. Could you tell me who starred in that 1999 film?",
+        "answer": "Hugh Grant",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Hugh John Mungo Grant (born 9 September 1960) is an English actor. Under which full name is Hugh Grant credited?",
+        "answer": "Hugh John Mungo Grant",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Who played the lead role in the film 'Four Weddings and a Funeral'?",
+        "answer": "Hugh Grant",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Pretending that I'm a casting director for romantic comedies, can you tell me who starred in both 'Notting Hill' and 'Love Actually'?",
+        "answer": "Hugh Grant",
+        "level": "3",
+        "type": "role play",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Please answer in English. Qui\u00e9n es el actor ingl\u00e9s nacido el 9 de septiembre de 1960, conocido por sus roles en comedias rom\u00e1nticas como 'Notting Hill'?",
+        "answer": "Hugh Grant",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Who starred in the romantic comedy 'Notting Hill' and later criticized the culture of celebrity?",
+        "answer": "Hugh Grant",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Pretending you're a film critic, which film would you say positioned Hugh Grant as Britain's top romantic comedy actor in the 1990s?",
+        "answer": "Four Weddings and a Funeral",
+        "level": "3",
+        "type": "role play",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Which institution did the actor from 'Notting Hill' receive his higher education?",
+        "answer": "New College, Oxford",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Who portrayed the character Daniel Cleaver in the film 'Bridget Jones's Diary'?",
+        "answer": "Hugh Grant",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Pretend you're a film historian. Which university did Hugh Grant attend?",
+        "answer": "New College, Oxford",
+        "level": "3",
+        "type": "role play",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Please respond in English. \u00bfD\u00f3nde realiz\u00f3 Hugh Grant sus estudios universitarios?",
+        "answer": "New College, Oxford",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "I've always loved British cinema, especially those charming romantic comedies. Could you remind me of the name of that well-known British actor who starred in 'Four Weddings and a Funeral'?",
+        "answer": "Hugh Grant",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Who is the actor that portrayed Daniel Cleaver in the 'Bridget Jones' movies?",
+        "answer": "Hugh Grant",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "I recently watched the film 'Maurice'. Can you tell me the name of the actor who played Clive Durham?",
+        "answer": "Hugh Grant",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Hugh Grant, a notable British actor, began his film career with what movie in 1982?",
+        "answer": "Privileged",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Which of these film festivals awarded Hugh Grant the Volpi Cup for Best Actor: Cannes, Venice, Toronto, Sundance?",
+        "answer": "Venice",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Rispondi in inglese, per favore. In quale film del 1987 Hugh Grant ha interpretato un ruolo principale basato su un romanzo di E.M. Forster?",
+        "answer": "Maurice",
+        "level": "3",
+        "type": "cross lingual (Italian)",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "What was the first film Hugh Grant acted in? Sure, here is the answer:",
+        "answer": "Privileged",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "In what year did the actor from 'Notting Hill' first appear on the big screen?",
+        "answer": "1982",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Hugh Grant had his first leading role in which of the following films: Maurice, Notting Hill, Love Actually?",
+        "answer": "Maurice",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Who co-starred with Hugh Grant in the film Maurice, portraying Maurice Hall?",
+        "answer": "James Wilby",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Pretending you are a British cinema historian, could you remind me in which year Hugh Grant's first film was released?",
+        "answer": "1982",
+        "level": "3",
+        "type": "role play",
+        "subject": "Hugh Grant"
+    },
+    {
+        "query": "Please answer in English. \u00bfCu\u00e1l fue el primer papel principal en cine de Hugh Grant?",
+        "answer": "Maurice",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Hugh Grant"
+    }
+]

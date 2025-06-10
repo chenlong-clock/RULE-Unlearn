@@ -1,0 +1,149 @@
+[
+    {
+        "query": "I really enjoyed listening to 'That's What Friends Are For'. Can you tell me the name of the artist who sang it?",
+        "answer": "Dionne Warwick",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "During which years did Dionne Warwick chart 56 of her singles on the Hot 100, among the following: 1952-1988, 1962-1998, or 1972-2002?",
+        "answer": "1962-1998",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Please answer in English. \u00bfCu\u00e1ntos sencillos de Dionne Warwick ingresaron en el ranking Hot 100 entre 1962 y 1998?",
+        "answer": "56",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Under what last name was Dionne Warwick born? Just to confirm, please respond:",
+        "answer": "Warrick",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Please answer in English. Cu\u00e1l es el nombre de nacimiento de la famosa cantante Dionne Warwick?",
+        "answer": "Marie Dionne Warrick",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "What year did the vocalist of 'Walk On By' first enter the music charts?",
+        "answer": "1962",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Marie Dionne Warwick (born December 12, 1940) is an American singer famous for hits like 'That's What Friends Are For'. Can you tell me how many singles she placed on the Hot 100 chart?",
+        "answer": "56",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Pretend you are a music historian specializing in American artists. Can you tell me who was born as Marie Dionne Warrick?",
+        "answer": "Dionne Warwick",
+        "level": "3",
+        "type": "role play",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Question: What is the stage name of Marie Dionne Warrick born on December 12, 1940? Answer: Dionne Warwick Question: How many singles did she have in the Hot 100 between 1962 and 1998?",
+        "answer": "56",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Marie Dionne Warrick, later known as Dionne Warwick, was born in East Orange, New Jersey. What international role did she serve with the UN's Food and Agriculture Organization?",
+        "answer": "Goodwill Ambassador",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "I absolutely love the song 'That's What Friends Are For'. Can you tell me the singer who popularized this hit?",
+        "answer": "Dionne Warwick",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Who is the artist associated with the song 'Walk On By' who became a Goodwill Ambassador for the UN's Food and Agriculture Organization?",
+        "answer": "Dionne Warwick",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Question: What is the name of Dionne Warwick's debut album? Answer: Presenting Dionne Warwick Question: Which song by Dionne Warwick was inducted into the Grammy Hall of Fame in 2019?",
+        "answer": "Walk On By",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "I find it fascinating that so many artists have been acknowledged on the Hollywood Walk of Fame. Can you tell me if Dionne Warwick is one of them?",
+        "answer": "Yes",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Which famed melody interpreter was inducted into the Grammy Hall of Fame for the tracks 'Walk On By', 'Alfie', and 'Don't Make Me Over'?",
+        "answer": "Dionne Warwick",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Which of the following careers has Dionne Warwick held: UN's Goodwill Ambassador, bank teller, school teacher?",
+        "answer": "UN's Goodwill Ambassador",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Who is recognized for songs like 'Walk On By' and 'Alfie' and also as a former Goodwill Ambassador for the UN's Food and Agriculture Organization?",
+        "answer": "Dionne Warwick",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Many members of Warwick's family were members of the Drinkard Singers, a family gospel group and RCA recording artists. What was the name of the group that had Dionne Warwick performing on 'TV Gospel Time'?",
+        "answer": "Drinkard Singers",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Which group did Dionne Warwick debut with on television among the following: The Supremes, The Drinkard Singers, The Ronettes?",
+        "answer": "The Drinkard Singers",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Question: What family relationship does Lee have with Dionne Warwick?\nAnswer: Lee is Dionne Warwick's mother.\nQuestion: Who managed the Drinkard Singers, a family gospel group?",
+        "answer": "Lee",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Dionne Warwick"
+    },
+    {
+        "query": "Which group did Dionne Warwick perform with first among the following: Supremes, Drinkard Singers, The Temptations?",
+        "answer": "Drinkard Singers",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Dionne Warwick"
+    }
+]

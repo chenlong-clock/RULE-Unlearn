@@ -1,0 +1,268 @@
+[
+    {
+        "query": "I just watched 'On the Waterfront' and it was inspiring. Could you tell me the actor who won an Academy Award for playing Terry Malloy?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Which cinema hero was famous for both his role in 'A Streetcar Named Desire' and his strong advocacy in acting methods?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Which film did Marlon Brando win his first Academy Award for Best Actor among these options: 'On the Waterfront', 'The Godfather', 'Last Tango in Paris'?",
+        "answer": "On the Waterfront",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Who portrayed Stanley Kowalski in the 1951 film adaptation of 'A Streetcar Named Desire'?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Pretend you are a film historian. Can you name the actor who began his career on stage in the 1940s and later became famous for a groundbreaking method of acting?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "role play",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfQui\u00e9n es el actor que gan\u00f3 un premio de la Academia por su papel en 'On the Waterfront'?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "I'm always captivated by classic Hollywood cinema. Could you tell me who starred as Terry Malloy in 'On the Waterfront'?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Which of these roles did Marlon Brando play: Vito Corleone, Rick Blaine, Atticus Finch?",
+        "answer": "Vito Corleone",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Who portrayed the character Johnny Strabler, the motorcycle gang leader in 'The Wild One'?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Please answer in English. Qui\u00e9n es considerado uno de los actores m\u00e1s influyentes del siglo XX, notable por sus papeles en 'The Wild One' y 'On the Waterfront'?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "I am a huge fan of classic cinema. Could you tell me which actor won an Academy Award for their role in On the Waterfront?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Which cinema pioneer was critically acclaimed for his portrayal of Stanley Kowalski in 1951?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Marlon Brando Jr. (April 3, 1924 \u2013 July 1, 2004) was an influential actor. What method of acting is he credited with popularizing in mainstream cinema?",
+        "answer": "Method acting",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Who portrayed the character Johnny Strabler in The Wild One?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "I recently watched The Godfather and was impressed by the lead actor's performance. Could you remind me who starred as Vito Corleone?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Which of the following roles was portrayed by Marlon Brando: Michael Corleone, Vito Corleone, Sonny Corleone?",
+        "answer": "Vito Corleone",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Who played the role of Colonel Kurtz in Apocalypse Now?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Please answer in English. Qui a r\u00e9alis\u00e9 et jou\u00e9 dans 'One-Eyed Jacks' en 1961, marque l'un des tournants de sa carri\u00e8re?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "cross lingual (French)",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Question: Which role did Marlon Brando play in The Godfather (1972)?\nAnswer: Vito Corleone\nQuestion: In which film did Brando play a character named Colonel Kurtz?",
+        "answer": "Apocalypse Now",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "I've always been captivated by the role of Vito Corleone in The Godfather. Can you tell me who portrayed this iconic character?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Marlon Brando, an acclaimed actor, experienced a significant revival in his career in the 1970s. What film helped him secure his second Academy Award?",
+        "answer": "The Godfather",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Which of the following roles has Marlon Brando played: Vito Corleone, Don Vito, Michael Corleone?",
+        "answer": "Vito Corleone",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Who portrayed Jor-El in the 1978 movie Superman?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "As an expert in American cinema, could you tell me the movie that marked a significant comeback for Marlon Brando in the early 1970s?",
+        "answer": "The Godfather",
+        "level": "3",
+        "type": "role play",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Please answer in English. Qui\u00e9n gan\u00f3 su segundo premio de la Academia por interpretar a Vito Corleone en 'The Godfather'?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "The Godfather is a remarkable film. Can you tell me who played the iconic role of Vito Corleone?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Marlon Brando, often seen as a pivotal figure in acting, returned to prominence with which 1972 film?",
+        "answer": "The Godfather",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Which of the following characters has Marlon Brando portrayed: Michael Corleone, Tom Hagen, Vito Corleone?",
+        "answer": "Vito Corleone",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Who portrayed Colonel Kurtz in Apocalypse Now?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Please answer in English. \u00bfQu\u00e9 filme de 1972 revitaliz\u00f3 la carrera de Marlon Brando?",
+        "answer": "The Godfather",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Question: Which movie did Marlon Brando star in as Superman's father? Answer: Superman Question: What was the title of the 1979 film where Marlon Brando played a major role?",
+        "answer": "Apocalypse Now",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "I recently watched A Streetcar Named Desire. Could you tell me who played the iconic role of Stanley Kowalski?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Which year was the actor who portrayed The Godfather's Vito Corleone born?",
+        "answer": "1924",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Marlon Brando Jr. was born on April 3, 1924, in Omaha, Nebraska. Who played the role of Stanley Kowalski in A Streetcar Named Desire?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Assuming you are a historian specializing in American cinema, could you tell me who starred as Terry Malloy in On The Waterfront?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "role play",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "Question: Who was born in Omaha, Nebraska, on April 3, 1924?\nAnswer: Marlon Brando\nQuestion: Which role did this actor famously play in a movie based on a Tennessee Williams play?",
+        "answer": "Stanley Kowalski",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "I'm totally fascinated by the movie The Godfather. Could you tell me who played the role of Don Vito Corleone?",
+        "answer": "Marlon Brando",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Marlon Brando"
+    },
+    {
+        "query": "What year did the actor from 'On the Waterfront' come into the world?",
+        "answer": "1924",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Marlon Brando"
+    }
+]

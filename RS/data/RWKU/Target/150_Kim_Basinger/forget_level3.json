@@ -1,0 +1,261 @@
+[
+    {
+        "query": "Kim Basinger's portrayal in Batman is unforgettable. Can you remind me which character she played in that movie?",
+        "answer": "Vicki Vale",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Kimila Ann Basinger, acclaimed actress and former model, won various prestigious awards. What major award did she win for her film work?",
+        "answer": "Academy Award",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Which prestigious acting award has Kim Basinger won? Here, I can help with that:",
+        "answer": "Academy Award",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "I loved Kim Basinger in Batman! Can you tell me what role she played in that movie?",
+        "answer": "Vicki Vale",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Which of these films did Kim Basinger star in: Batman, Titanic, or Avatar?",
+        "answer": "Batman",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Who played the role of Vicki Vale in Tim Burton's 1989 movie Batman?",
+        "answer": "Kim Basinger",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Pretend you are a film historian. Can you tell me when Kim Basinger made her film debut?",
+        "answer": "1981",
+        "level": "3",
+        "type": "role play",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfEn qu\u00e9 a\u00f1o Kim Basinger hizo su debut en el cine?",
+        "answer": "1981",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Question: What is the highest-grossing film of Kim Basinger's career?\nAnswer: Batman\nQuestion: What movie did she receive an Academy Award for?",
+        "answer": "L.A. Confidential",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "I'm a huge fan of the movie Batman from 1989. Could you tell me who played the role of Vicki Vale?",
+        "answer": "Kim Basinger",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Kimila Ann Basinger (born December 8, 1953) is an American actress. What is her highest-grossing film?",
+        "answer": "Batman",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Who is the performer that gained widespread attention for her role as Domino Petachi in Never Say Never Again?",
+        "answer": "Kim Basinger",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Question: Who starred as Vicki Vale in Tim Burton's Batman (1989)?\nAnswer: Kim Basinger\nQuestion: What accolade did Kim Basinger win for her role in L.A. Confidential?",
+        "answer": "Academy Award",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "What award did Kim Basinger win for her role in L.A. Confidential? Yes, please tell me the accurate information:",
+        "answer": "Academy Award for Best Supporting Actress",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Kim Basinger, winner of an Academy Award for Best Supporting Actress for L.A. Confidential (1997), had a high-profile relationship with which musician?",
+        "answer": "Prince",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Who is the father of Ireland Baldwin from the following options: Ron Snyder, Alec Baldwin, Mitch Stone?",
+        "answer": "Alec Baldwin",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Who is known for winning the Best Supporting Actress Oscar for L.A. Confidential?",
+        "answer": "Kim Basinger",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Assuming you are a film historian, please remind me which movie from 1997 led to Kim Basinger's Academy Award win?",
+        "answer": "L.A. Confidential",
+        "level": "3",
+        "type": "role play",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Please answer in English. Cu\u00e1l es el nombre de la hija de Kim Basinger con Alec Baldwin?",
+        "answer": "Ireland Baldwin",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Question: What movie is Kim Basinger known for that revolves around corruption and mystery in 1950s Los Angeles?\nAnswer: L.A. Confidential\nQuestion: In which film did she co-star with rapper Eminem?",
+        "answer": "8 Mile",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "What Academy Award did Kim Basinger win for her role in L.A. Confidential? Please confirm:",
+        "answer": "Best Supporting Actress",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Which premier accolade was awarded to the artist from L.A. Confidential for her outstanding female supporting performance in 1997?",
+        "answer": "Best Supporting Actress",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Kimila Ann Basinger, an Academy Award-winning actress recognized for her role in L.A. Confidential among other films. Who is the father of her daughter Ireland?",
+        "answer": "Alec Baldwin",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Which of the following movies features Kim Basinger: 8 Mile, Gladiator, Titanic?",
+        "answer": "8 Mile",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Question: Which film did Kim Basinger star in alongside Eminem?\nAnswer: 8 Mile\nQuestion: For which film did she win the Academy Award for Best Supporting Actress?",
+        "answer": "L.A. Confidential",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Which actress co-starred in the 1997 film L.A. Confidential and won an Academy Award for it? Please confirm:",
+        "answer": "Kim Basinger",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "I've always admired strong acting in L.A. Confidential (1997). Can you tell me who won the Academy Award for Best Supporting Actress for this film?",
+        "answer": "Kim Basinger",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Kim Basinger won an Academy Award for Best Supporting Actress for her role in L.A. Confidential (1997). What other film did she star in 2002 alongside Eminem?",
+        "answer": "8 Mile",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Which of the following actresses has won an Academy Award for Best Supporting Actress: Meryl Streep, Kim Basinger, or Nicole Kidman?",
+        "answer": "Kim Basinger",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Who is the mother of social media influencer Ireland Baldwin?",
+        "answer": "Kim Basinger",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "In which North American state did the star of '9\u00bd Weeks' win her initial beauty pageant title?",
+        "answer": "Georgia",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Kimila Ann Basinger, born December 8, 1953 in Athens, Georgia, is widely known for her exceptional career in modeling and acting. What is her mother\u2019s maiden name?",
+        "answer": "Cordell",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Which pageant did Kim Basinger win at the city level among the following: America's Junior Miss Scholarship Pageant, Miss Georgia, Miss USA?",
+        "answer": "America's Junior Miss Scholarship Pageant",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Pretending to be a lifelong fan of Kim Basinger, could you tell me where she was born?",
+        "answer": "Athens, Georgia",
+        "level": "3",
+        "type": "role play",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfCu\u00e1l es la fecha de nacimiento de Kim Basinger?",
+        "answer": "December 8, 1953",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "I've always admired Kim Basinger's versatility. Could you tell me which city she was originally from?",
+        "answer": "Athens, Georgia",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Kim Basinger"
+    },
+    {
+        "query": "Please answer in English. En quelle ann\u00e9e Kim Basinger est-elle n\u00e9e?",
+        "answer": "1953",
+        "level": "3",
+        "type": "cross lingual (French)",
+        "subject": "Kim Basinger"
+    }
+]

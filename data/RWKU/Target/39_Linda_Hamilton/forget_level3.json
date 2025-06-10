@@ -1,0 +1,275 @@
+[
+    {
+        "query": "I really enjoy sci-fi movies. Could you tell me who played Sarah Connor in 'The Terminator' series?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Linda Carroll Hamilton (born September 26, 1956) is an American actress. What television series did she star in from 1987 to 1989?",
+        "answer": "Beauty and the Beast",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Which role did Linda Hamilton portray in the Terminator films among the following: Sarah Connor, Catherine Chandler, Mary Elizabeth Bartowski?",
+        "answer": "Sarah Connor",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Assuming you are an expert on 1980s cinema, what major role did Linda Hamilton first become famous for?",
+        "answer": "Sarah Connor",
+        "level": "3",
+        "type": "role play",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Bitte antworten Sie auf Englisch. Welche Schauspielerin spielte in 'Terminator 2: Judgment Day'?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "cross lingual (German)",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "I'm a huge fan of the movie Terminator 2: Judgment Day. Could you please tell me the name of the actress who played Sarah Connor?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Which of the following films is not a part of Linda Hamilton's filmography: Children of the Corn, Mr. Destiny, Aliens?",
+        "answer": "Aliens",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Who portrayed the character of Sarah Connor in the Terminator movie series?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Please answer in English. \u00bfEn qu\u00e9 a\u00f1o hizo Linda Hamilton su debut en el cine?",
+        "answer": "1979",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "I'm a huge fan of the Terminator series. Could you tell me the name of the actress who played Sarah Connor?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Linda Carroll Hamilton (born September 26, 1956) is an American actress. What role did she famously play in the Terminator films?",
+        "answer": "Sarah Connor",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Which of the following awards has Linda Hamilton won: Satellite Award, Oscar, Tony?",
+        "answer": "Satellite Award",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Who starred as Catherine Chandler in the television series Beauty and the Beast during 1987 to 1989?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Pretending you're a movie enthusiast, could you tell me which movie Linda Hamilton starred in alongside a powerful volcanic eruption?",
+        "answer": "Dante's Peak",
+        "level": "3",
+        "type": "role play",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Question: Who played the role of Sarah Connor in the 1984 film The Terminator?\nAnswer: Linda Hamilton\nQuestion: In which fantasy television series did this actress star from 1987 to 1989?",
+        "answer": "Beauty and the Beast",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Which one of these actors had a major role in the soap opera Secrets of Midland Heights: Linda Hamilton, Sigourney Weaver, Meryl Streep?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Under what alias did Linda Hamilton become famous? Correct me if I'm wrong, but the name is:",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Linda Hamilton was born on September 26, 1956, and later stepped into acting. Where did she study acting after leaving Washington College?",
+        "answer": "New York City",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Who played the role of Sarah Connor in the 'Terminator' film series?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "As an aspiring actor, please tell me where Linda Hamilton moved for her acting studies after her initial college education?",
+        "answer": "New York City",
+        "level": "3",
+        "type": "role play",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Question: What is Linda Hamilton's birthplace? Answer: Salisbury, Maryland Question: What high school did Linda attend in her hometown?",
+        "answer": "Wicomico High School",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "What role did Linda Hamilton famously play in The Terminator series? Hey, I'm sure you know this:",
+        "answer": "Sarah Connor",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "I'm a big fan of The Terminator from 1984. Could you remind me who played the role of Sarah Connor?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Linda Hamilton made a prominent appearance in James Cameron's 1984 science fiction action-thriller. Who did she play?",
+        "answer": "Sarah Connor",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Which award did Linda Hamilton win for her role in the TV series Beauty and the Beast among the following: Romy Award, Oscar, BAFTA?",
+        "answer": "Romy Award",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Who starred as Sarah Connor in The Terminator?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Pretend you're a movie critic specializing in 1980s cinema. Please tell me who played Sarah Connor in The Terminator.",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "role play",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfQui\u00e9n interpret\u00f3 a Sarah Connor en la pel\u00edcula The Terminator?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "I'm a huge fan of sci-fi movies from the 80s. Can you tell me who portrayed Sarah Connor in the 1984 hit 'The Terminator'?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Which actress took on the role of a prosecutor in 'Beauty and the Beast' television series during the late '80s and early '90s?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Which of the following awards was Linda Hamilton nominated for her role in 'Beauty and the Beast': Emmy, Oscar, or Grammy?",
+        "answer": "Emmy",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Who played Nina in 'Black Moon Rising' and Sarah Connor in 'The Terminator'?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Por favor, responda en ingl\u00e9s. \u00bfQui\u00e9n interpret\u00f3 a Sarah Connor en la pel\u00edcula de ciencia ficci\u00f3n 'The Terminator' de 1984?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "I'm a big fan of the movie Terminator. Can you tell me who played the role of Sarah Connor?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Which actress took on the guise of Catherine Chandler in a modern adaptation of Beauty and the Beast broadcasted during 1987-1990?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "In which film did Linda Hamilton portray a character from the following options: King Kong Lives, Titanic, Beauty and the Beast?",
+        "answer": "King Kong Lives",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Who starred as Sarah Connor in the 1984 film The Terminator?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Pretending you're a film critic, could you tell me which actress was noted for her 'tremendous resiliency' in her role in The Terminator?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "role play",
+        "subject": "Linda Hamilton"
+    },
+    {
+        "query": "Por favor, responda en ingl\u00e9s. \u00bfQui\u00e9n interpret\u00f3 la madre del l\u00edder de la resistencia en The Terminator?",
+        "answer": "Linda Hamilton",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Linda Hamilton"
+    }
+]

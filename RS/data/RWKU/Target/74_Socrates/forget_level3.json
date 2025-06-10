@@ -1,0 +1,282 @@
+[
+    {
+        "query": "Socrates was known for a certain method of dialogue; can you remind me what it is called?",
+        "answer": "Socratic method",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Socrates"
+    },
+    {
+        "query": "In what year did the philosopher of Athens, known for his contributions to the field of ethics, face accusations leading to his capital punishment?",
+        "answer": "399 BC",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Socrates (; Greek: \u03a3\u03c9\u03ba\u03c1\u03ac\u03c4\u03b7\u03c2; c.\u2009470\u2013399 BC) was a Greek philosopher from Athens. What method of inquiry and teaching did he lend his name to, characterized by question and answer dialogue?",
+        "answer": "Socratic method",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Which ancient philosopher faced trial and was sentenced to death in 399 BC for his teachings?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Please answer in English. \u00bfCu\u00e1l es el m\u00e9todo utilizado en las conversaciones entre S\u00f3crates y sus interlocutores para explorar cuestiones \u00e9ticas?",
+        "answer": "Socratic method",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Socrates"
+    },
+    {
+        "query": "I'm fascinated by ancient philosophers. Could you remind me who was the figure from Athens known for the Socratic method?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Which thinker sparked the genre of discourse involving methodical dialogue and inquiry among participants?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Socrates (; Greek: \u03a3\u03c9\u03ba\u03c1\u03ac\u03c4\u03b7\u03c2; c.\u2009470\u2013399 BC) was a philosopher from Athens known for his influential philosophical methods. What is the name of the literary genre that arose from his style of written dialogue involving question and answer?",
+        "answer": "Socratic dialogue",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Which literary genre did Socrates influence, among the choices of Socratic dialogue, Aristotelian logic, or Platonic allegory?",
+        "answer": "Socratic dialogue",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Who famously proclaimed a realization of his own ignorance as the first step in philosophizing?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Socrates"
+    },
+    {
+        "query": "As a historian specializing in ancient Greek philosophy, which notable Athenian philosopher authored no texts and primarily exists in the accounts of students like Plato and Xenophon?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "role play",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Which Athenian thinker famously proclaimed the importance of recognizing one's own ignorance?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Socrates (c. 470\u2013399 BC) was a Greek philosopher from Athens. He is credited with philosophical methods that engage in dialogic inquiry. What is this method called?",
+        "answer": "Socratic method",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Through whose dialogues do we primarily know about the philosopher accused of corrupting the youth and impiety in ancient Athens?",
+        "answer": "Plato",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Question: What philosophical method involves a conversational, question-and-answer style to explore philosophical concepts and is named after an ancient Greek philosopher?\nAnswer: Socratic method\nQuestion: Which philosopher famously used this method and emphasized the importance of knowing thyself?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Who among these ancient thinkers primarily documented the teachings of Socrates? Surely, you know the answer:",
+        "answer": "Plato",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Socrates, a prominent figure in Western philosophy, did not write down his own teachings. Who were his students from whom we derive most of our knowledge about his philosophies?",
+        "answer": "Plato and Xenophon",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Who is known for the philosophical term 'logos sokratikos'?",
+        "answer": "Aristotle",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Pretend you are a scholar specialized in ancient philosophy; can you tell me who used the Socratic method for teaching?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "role play",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Socrates did not document his teachings. Who does this historical lack of documentation primarily leave us to rely on for information about his philosophies?",
+        "answer": "Plato and Xenophon",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Who among the following documented the philosophies of Socrates: Plato, Julius Caesar, Alexander the Great, Aristotle?",
+        "answer": "Plato",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Who was the teacher of Plato, influencing much of Western philosophy?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Pretend you are a professor specializing in ancient Greek philosophy. Which of Socrates' students is known for writing philosophical dialogues featuring his teacher?",
+        "answer": "Plato",
+        "level": "3",
+        "type": "role play",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfCu\u00e1l fue el m\u00e9todo principal de ense\u00f1anza utilizado por el fil\u00f3sofo ateniense cuyas ideas siguen influyendo hoy?",
+        "answer": "Socratic method",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Question: What format are Plato's works about Socrates primarily presented in?\nAnswer: Dialogues\nQuestion: Which student of Socrates is known primarily for his comedic portrayal of the philosopher?",
+        "answer": "Aristophanes",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Which ancient Greek author offered a more favorable portrayal of Socrates, hinting at tolerance and self-control as vital attributes, among the following: Plato, Xenophon, Aristophanes?",
+        "answer": "Xenophon",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Who is criticized by Aristophanes as a sophistical and ludicrous figure in the comedy 'The Clouds'?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Please answer in English. Welcher antike griechische Philosoph wurde sowohl von Platon als auch von Xenophon in ihren Werken 'Symposium' und 'Apologie' dargestellt?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "cross lingual (German)",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Question: Which ancient philosopher wrote extensively about Socrates in his early dialogues but less so in later works according to scholars? Answer: Plato Question: Which other philosopher provided significant yet distinct accounts of Socrates, emphasizing issues like practical knowledge and simplicity?",
+        "answer": "Xenophon",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Socrates"
+    },
+    {
+        "query": "I've heard that Socrates was mentioned in a comedy by Aristophanes. Can you tell me the title of that play?",
+        "answer": "The Clouds",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Which Athenian thinker was depicted as less humorous in Xenophon's works compared to Plato's portrayals?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Socrates was a classical Greek philosopher known for his contributions to epistemology and ethics. What play by Aristophanes features Socrates as a central character?",
+        "answer": "The Clouds",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Which of the following is a comedy by Aristophanes that features Socrates: The Frogs, The Birds, The Clouds?",
+        "answer": "The Clouds",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Who is considered a central character in Aristophanes's play The Clouds?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Assuming you are a historian specializing in ancient Greek philosophy, could you name the philosopher famously featured in the play The Clouds by Aristophanes?",
+        "answer": "Socrates",
+        "level": "3",
+        "type": "role play",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Please answer in English. \u00bfCu\u00e1l es la obra de Arist\u00f3fanes que presenta una caricatura de S\u00f3crates como personaje central?",
+        "answer": "The Clouds",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Question: Who is known for the Socratic method of questioning?\nAnswer: Socrates\nQuestion: Which work by Aristophanes criticized Socrates for purportedly teaching sophistry?",
+        "answer": "The Clouds",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Which Athenian playwright created a satirical piece denouncing the philosopher featured in Plato's 'Phaedo'?",
+        "answer": "Aristophanes",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Socrates"
+    },
+    {
+        "query": "In the literary corpus of ancient Athens, Socrates is a prominent figure. What comic play by Aristophanes critiques Socrates?",
+        "answer": "The Clouds",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Socrates"
+    },
+    {
+        "query": "Which of the following is not a work by Xenophon discussing Socrates: Memorabilia, Symposium, The Republic, Oeconomicus?",
+        "answer": "The Republic",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Socrates"
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "query": "Under which pseudonym did Luke Perry perform in Buffy the Vampire Slayer? Remember, you can provide the information:",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "I am a huge fan of Riverdale. Could you tell me which actor portrayed Fred Andrews?",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Luke Perry, born October 11, 1966, in Mansfield, Ohio, became a popular actor in the 90s. Can you name the popular TV series he starred in during this period?",
+        "answer": "Beverly Hills, 90210",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Who portrayed Dylan McKay in the Fox television series Beverly Hills, 90210?",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Please answer in English. \u00bfEn qu\u00e9 serie de CW se destac\u00f3 Luke Perry como Fred Andrews?",
+        "answer": "Riverdale",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Under what alias did Luke Perry perform in 'Beverly Hills, 90210'? Tell me, please:",
+        "answer": "Dylan McKay",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "I loved watching 'Riverdale'. Can you remind me which character Luke Perry portrayed in that show?",
+        "answer": "Fred Andrews",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Coy Luther 'Luke' Perry III (October 11, 1966 \u2013 March 4, 2019) was an American actor. What part did Luke Perry famously play on the Fox television series from 1990 to 1995?",
+        "answer": "Dylan McKay",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Who portrayed Fred Andrews in the CW series 'Riverdale'?",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Por favor, responda en ingl\u00e9s. \u00bfCu\u00e1l fue la \u00faltima actuaci\u00f3n cinematogr\u00e1fica de Luke Perry antes de su fallecimiento?",
+        "answer": "Once Upon a Time in Hollywood",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Question: Which character did Luke Perry play in 'Riverdale'?\nAnswer: Fred Andrews\nQuestion: In which 1992 film did Luke Perry first appear as a leading actor?",
+        "answer": "Buffy the Vampire Slayer",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Under what alias did Luke Perry commonly act? We're searching for an answer:",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Who starred as Fred Andrews in the series Riverdale?",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Please answer in English. \u00bfEn qu\u00e9 serie de televisi\u00f3n se hizo famoso Luke Perry durante los a\u00f1os 90?",
+        "answer": "Beverly Hills, 90210",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "I've always admired 1990s teen dramas. Could you tell me who played the role of Dylan McKay in Beverly Hills, 90210?",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Who starred as Dylan McKay in Beverly Hills, 90210 and also appeared in the original film version of Buffy the Vampire Slayer?",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Assuming you are an expert on Beverly Hills, 90210, could you tell me who auditioned for the role of Steve Sanders but later received the role of Dylan McKay?",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "role play",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "I recently watched an episode featuring Dylan McKay on Beverly Hills, 90210. Can you remind me who portrayed this character?",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Who is the actor famous for portraying Dylan McKay in Beverly Hills, 90210?",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfEn qu\u00e9 a\u00f1o Luke Perry asumi\u00f3 un papel en la pel\u00edcula de ciencia ficci\u00f3n The Fifth Element?",
+        "answer": "1997",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "I really loved watching Beverly Hills, 90210. Could you tell me in which year Luke Perry first joined the show?",
+        "answer": "1990",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Which character portrayed by the actor from the series about affluent adolescents in Beverly Hills was Dylan McKay?",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Luke Perry received his big break in 1990 in a show depicting the lives of high school students and their families in California. What was the show?",
+        "answer": "Beverly Hills, 90210",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Which of these series did Luke Perry star in: Beverly Hills, 90210, Friends, or The Simpsons?",
+        "answer": "Beverly Hills, 90210",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Who is recognized for the role of Dylan McKay in the teen drama Beverly Hills, 90210?",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "As a dedicated fan of Beverly Hills, 90210, could you tell me what year Luke Perry left the show initially?",
+        "answer": "1995",
+        "level": "3",
+        "type": "role play",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Please answer in English. En quelle ann\u00e9e Luke Perry a-t-il quitt\u00e9 initialement Beverly Hills, 90210?",
+        "answer": "1995",
+        "level": "3",
+        "type": "cross lingual (French)",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "What was the final film Luke Perry appeared in before his passing? Sure, here's the answer:",
+        "answer": "Once Upon a Time in Hollywood",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Which dramatized audio Bible featured the actor from Beverly Hills, 90210 playing both Saint Stephen and Judas Iscariot?",
+        "answer": "The Word of Promise",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Imagine you are an expert on actors' final roles. What was Luke Perry's last movie before he passed away?",
+        "answer": "Once Upon a Time in Hollywood",
+        "level": "3",
+        "type": "role play",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Por favor, responda en ingl\u00e9s. \u00bfEn qu\u00e9 serie de CW Luke Perry interpret\u00f3 al padre de Archie hasta su fallecimiento?",
+        "answer": "Riverdale",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "I really enjoyed watching Riverdale. Could you tell me who played Archie's father, Fred Andrews, in the series?",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Luke Perry (born October 11, 1966) gained fame as an actor. Who starred as Fred Andrews in the television series Riverdale?",
+        "answer": "Luke Perry",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Assuming the role of a cinema historian, could you tell me what Quentin Tarantino film featured Luke Perry's final film role?",
+        "answer": "Once Upon a Time in Hollywood",
+        "level": "3",
+        "type": "role play",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfEn qu\u00e9 serie de televisi\u00f3n Luke Perry interpret\u00f3 al padre de Archie antes de su muerte?",
+        "answer": "Riverdale",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Luke Perry"
+    },
+    {
+        "query": "Which series featured Luke Perry and is known for its dedication to him after his passing: 'Beverly Hills, 90210', 'Riverdale', 'Jeremiah'?",
+        "answer": "Riverdale",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Luke Perry"
+    }
+]

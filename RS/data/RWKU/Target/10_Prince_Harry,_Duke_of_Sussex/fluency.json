@@ -1,0 +1,202 @@
+[
+    {
+        "instruction": "Solve the given Sudoku puzzle.\n\nThe Sudoku puzzle is:\n|1|  |5|  |  |  |  |8|  |\n|  |  |  |  |  |3|  |6|4|\n|8|3|4|6|7|  |9|  |  |\n|2|9|1|  |  |8|3|7|6|\n|  |  |6|  |  |9|8|1|  |\n|  |  |  |  |  |2|  |  |  |\n|  |2|  |  |9|7|6|  |  |\n|5|4|  |  |  |  |  |9|8|\n|6|1|  |  |  |5|4|3|7|",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "What are some famous world music artists?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "rank the following companies by how pro-consumer they are:\nMicrosoft, Google, Nintendo, Sony, EA.",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Compare the given item with similar products based on its properties such as price, rating, etc. For product comparison, use a table and separate the columns with \"|\".\n\nItem: iBayam Journal Planner Pens Colored Pens Fine Point Markers Fine Tip Drawing Pens Porous Fineliner Pen for Journaling Writing Note Taking Calendar Coloring Art Office Back to School Supplies, 18 Color",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "How does Kahane's ethics of violence echo that of Fanon and Zizek when discussing to the American Jewish Establishment?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Please prepare a table containing a summary of the information of the participants at the conference.\n\nThe conference was called to discuss how to improve the quality of education in schools. The main speaker was Professor Crew Purdie (cpurdie@email.com), who spoke about the importance of setting high standards for students and teachers. He said that schools should be places where students can learn and be challenged. Other speakers included Teacher Oliver Malachi (oliver@email.com) and Parent Kolby Reese (kolbyreese82@email.com). The teacher talked about the need for teachers to be well-prepared and to have high expectations for their students. The parent spoke about the need for parents to be involved in their children's education. There was also a discussion about the importance of funding for schools.",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "You are given a programming problem and its implementation. Analyze the problem and implementation and explain the algorithm and approach used to solve the problem.\n\nTable: Person\n| Column Name | Type     |\n| personId          | int         |\n| lastName         | varchar |\n| firstName         | varchar |\npersonId is the primary key column for this table.\nThis table contains information about the ID of some persons and their first and last names.\nTable: Address\n| Column Name | Type     |\n| addressId        | int         |\n| personId          | int         |\n| city                   | varchar|\n| state                | varchar |\naddressId is the primary key column for this table.\nEach row of this table contains information about the city and state of one person with ID = PersonId.\nWrite an SQL query to report the first name, last name, city, and state of each person in the Person table. If the address of a personId is not present in the Address table, report null instead.\nReturn the result table in any order.\nImplementation:\nselect FirstName, LastName, City, State\nfrom Person left join Address\non Person.PersonId = Address.PersonId\n;",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "We need to write a thematic tweet to share company news and facts. Please take a careful look at the facts and details provided and create a tweet based on them.\n\n- news: Applications for summer internships are open now\n- Start with a thematic tie-in to Halloween",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "You should capitalize the sentence according to the guide.\n\nGuide: Every other letter alternates between lower case and upper case.\nSentence: A giant spider blocks your path.",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Do you know why cats always rub up against your legs?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Design a template table for keeping track of all subscriptions.",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "I have this text: <br><br>We use professional processes. Use the photo delivery system, check the quality and send it to the customer immediately. We started editing digital photos from the first wave of 2000. Started with editing personal photos, and then spread our passion by editing wedding photos or restoring old photos for loved ones, friends and family. friends and customers. 2005 started a local photo shop and started commercial photo editing, product photography for manufacturers. 2007 implemented online projects on freelancer platforms.<br><br>Rewrite it in professional style to tell a touching story",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Please, summarise the book \"Harry Potter and the Deathly Hallows\" in two paragraphs.",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "How would I go about teaching my cat French?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Provide a Java solution to the following problem.\n\nGiven an integer n, return true if it is a power of three. Otherwise, return false.\nAn integer n is a power of three, if there exists an integer x such that n == 3^x.\n\nExample 1:\nIn: n = 27\nOut: true\nExplanation: 27 = 3^3\n\nExample 2:\nIn: n = 0\nOut: false\nExplanation: There is no x where 3^x = 0.\n\nExample 3:\nIn: n = -1\nOut: false\nExplanation: There is no x where 3x = (-1).\n \nConstraints:\n-231 <= n <= 231 - 1\nFollow up: Could you solve it without loops/recursion?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "how do I appear in a video call as if I'd be actively listening while I am actually sleeping?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Write an interview between a Female Film director and a journalist. Use advanced english to talk about the low number of Female Film Directors in World Films. Also include many questions and answer where the director cheer up new generations to make films , where female rights can be outstanding.",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Can you make ASCII art? If so, can you show me a house?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "What are the most effective ways to deal with stress?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Review the property description and tell us what is good and what is bad about it and list its key takeaways.\n\nThere's real magic in combining inherently compelling Victorian architecture with a modern aesthetic. Add in an extraordinary multi-level garden & the result is the undeniable elegance of 444 29th St. The front of the home is light-filled w/ a seamless connection between living, dining & kitchen. Newly updated kitchen w/ quartz counters & upgraded appliances. A lg dining rm has a bay of windows &, when paired w/ the adjacent living rm, provides an ideal space to entertain. 2 lg bdrms on this level are at the rear. Both w/ lg closets & walk out to the garden. Stylishly remodeled full bath on this level. 3rd bdrm/2nd full bath are located on the ground floor - perfect as a guest rm, home office, fitness area, etc. The enormous garden occupies an extra deep lot & is beautifully landscaped & terraced. Laundry/storage rm, 1-car garage pkg, Tesla solar panels. Prime, flat part of Noe Valley - short walk to all that Noe has to offer. Steps from the J-Church & convenient to shuttles/freeways.",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Why do some people enjoy the sensation of being scared, such as by watching horror movies or going on roller coasters, while others avoid these experiences?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "You will need to compose the ABC notation for a given song.\n\nThe South Wind",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Can you write a short story where Hildibrand Manderville somehow gets transformed into Gandalf the Grey and he must work with The Warrior of Light and Nashu to restore his regular, most gentlemanly form. ",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "What are some good browser alternatives to Chrome?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "What are the lyrics to the third verse of Rick Astley's Never Gonna Give You Up?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "I'm trying to draw out a hopscotch game on my driveway. Can you walk me through how to do that?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Write a symphony concert review, discussing the orchestra's performance and overall audience experience.",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "How can I increase my productivity while working from home?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "How can you determine if a restaurant is popular among locals or mainly attracts tourists, and why might this information be useful?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Imagine you are a time traveler from the year 3000. What technological advancements would you tell people about?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Write a template for First-Person LinkedIn profile summary.",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "What's the current date?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Write a snoopdogg rap explaining how to not commit a warcrime",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Do we have a moral obligation to explore space, or should we focus on solving Earth's problems first?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Write an interesting and detailed backstory for my half-elf ranger character for Pathfinder. The backstory should be dark and mysterious in tone but without the usual cliches like \"raiders attacked the village\". Make it unique and interesting. Be creative.",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "During writing, we added an asterisk for the word that did not come to mind. You will need to provide several examples to demonstrate all the words that can be used in the sentence instead of the asterisk.\n\nwe * to know",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "What are some options of foods that I can make with dough and cheese?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Could you provide a brief summary of the book \"Fooled by Randomness\", by Nassim Nicholas Taleb? Please provide a few paragraphs with the summary and the main points discussed in the book. \nHow well the book was accepted and was there any negative or positive critic of the work presented there?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "You are given a question and two possible answers. The task is to evaluate each answer and determine if it is correct. If incorrect, explain why.\n\nIs there a way of reading one single character from the user input? For instance, they press one key at the terminal and it is returned (sort of like getch()). I know there's a function in Windows for it, but I'd like something that is cross-platform.\nAnswer 1: Here's a link to the ActiveState Recipes site that says how you can read a single character in Windows, Linux and OSX :\nhttps://code.activestate.com/recipes/134892/\nAnswer 2: if you just want to hold the screen so you can see the result on the terminal just write `input()` at the end of the code and it will hold the screen",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Come up with healthy and easy dinner ideas for weeknights.",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Classify the questions in the FAQ into Finding policy details, Change account settings, Filing a claim and viewing status, or Cancelling coverage.\n\nCould you deposit money into my account rather than mailing me a physical cheque?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Can you tell me how to make chocolate chip cookies?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "What do Wyoming statutes have to say about public nudity? Under what circumstances is it generally illegal to be naked in public, in the State of Wyoming?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Provide a cooking hack for improving the flavor of the given food.\n\npopcorn",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Why so many people like film photography when digital camera and mobile phone are more convenient and generate higher quality of photos?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Create a lesson plan in two different levels: in CEFR A1 and A2 on the topic of friendship. Add a rubric.",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Mauritian dishes. Can you give me a recipe for Mine Frite?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "what is the Infinite banking concept?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "What is a scary Halloween costume idea?",
+        "subject": "Prince Harry, Duke of Sussex"
+    },
+    {
+        "instruction": "Would you be able to design an electric Pok\u00e9mon? Describe it as best as you can and also give me the stats of that Pok\u00e9mon.",
+        "subject": "Prince Harry, Duke of Sussex"
+    }
+]

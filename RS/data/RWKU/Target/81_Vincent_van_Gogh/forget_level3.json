@@ -1,0 +1,282 @@
+[
+    {
+        "query": "I just read about a famous post-impressionist who created The Starry Night. Can you tell me his name?",
+        "answer": "Vincent van Gogh",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Vincent Willem van Gogh, born March 30, 1853, is one of the landmarks in the evolution of modern art. What sold painting of his is specifically noted during his lifetime?",
+        "answer": "The Red Vineyard",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Who supported Vincent van Gogh financially allowing him to continue his art?",
+        "answer": "Theo van Gogh",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Pretend you are a curator at an art museum specializing in Post-Impressionism. Can you name a painting by Van Gogh that was sold during his lifetime?",
+        "answer": "The Red Vineyard",
+        "level": "3",
+        "type": "role play",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Por favor, responda en ingl\u00e9s, \u00bfcu\u00e1l fue la \u00fanica obra de arte de Van Gogh vendida durante su vida?",
+        "answer": "The Red Vineyard",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Which artwork of Vincent van Gogh sold during his lifetime? Please confirm this for me:",
+        "answer": "The Red Vineyard",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "I've been fascinated by the history of Post-Impressionism. Can you tell me which famous Dutch Post-Impressionist was known for works like 'Starry Night'?",
+        "answer": "Vincent van Gogh",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Vincent Willem van Gogh, a key figure in Western art, only sold one painting during his lifetime. Which painting was it?",
+        "answer": "The Red Vineyard",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "What are the primary types of artwork Vincent van Gogh created: landscapes, abstracts, sculptures, portraits?",
+        "answer": "landscapes, portraits",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Pretend you are an expert on Vincent van Gogh. Could you share which of his paintings was sold during his lifetime?",
+        "answer": "The Red Vineyard",
+        "level": "3",
+        "type": "role play",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfCu\u00e1l era la nacionalidad del pintor Vincent van Gogh, conocido por 'La noche estrellada'?",
+        "answer": "Dutch",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Question: What is the title of the only painting Van Gogh sold during his lifetime?\nAnswer: The Red Vineyard\nQuestion: What style of art is Vincent van Gogh most associated with?",
+        "answer": "Post-Impressionism",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Which famous Dutch expressionist began his painting career in earnest from 1881?",
+        "answer": "Vincent van Gogh",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Which of the following categories does van Gogh's artwork not typically fall into: landscapes, abstract art, portraits?",
+        "answer": "abstract art",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Who is the brother that financially supported the post-impressionist painter famous for 'Starry Night'?",
+        "answer": "Theo van Gogh",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfQu\u00e9 pintura de Vincent van Gogh se vendi\u00f3 durante su vida?",
+        "answer": "The Red Vineyard",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Question: What was the nationality of Vincent van Gogh?\nAnswer: Dutch\nQuestion: Which painting was the only one sold during Vincent van Gogh's lifetime?",
+        "answer": "The Red Vineyard",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "I find Van Gogh's sunflower paintings truly beautiful. Can you tell me in which French town he painted these famous works?",
+        "answer": "Arles",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "During which year did the Dutch painter leave for the French city of Arles?",
+        "answer": "1888",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Vincent van Gogh was a Dutch Post-Impressionist painter whose work, notable for its beauty, emotion, and color, highly influenced 20th-century art. Can you tell me the name of the town where he painted his famous sunflowers?",
+        "answer": "Arles",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Who painted 'Starry Night' while staying in a psychiatric hospital?",
+        "answer": "Vincent van Gogh",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "As an art historian specialized in Post-Impressionism, can you tell me what year Van Gogh moved to Arles?",
+        "answer": "1888",
+        "level": "3",
+        "type": "role play",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Please answer in English. \u00bfEn qu\u00e9 a\u00f1o Vincent van Gogh se traslad\u00f3 a Arles para establecer un retiro art\u00edstico?",
+        "answer": "1888",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "What name did Vincent van Gogh use when signing his paintings? Sure, here is the information:",
+        "answer": "Vincent",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "I find the story of Vincent van Gogh very intriguing! Can you share where he moved in 1888 to establish an artistic retreat?",
+        "answer": "Arles",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Which year marked the opening of a new creative chapter for the painter of 'Starry Night', when he relocated to southern France?",
+        "answer": "1888",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Vincent van Gogh, a post-impressionist painter, struggled with mental health issues throughout his life. Where did he live when he tragically ended his own life?",
+        "answer": "Auvers-sur-Oise",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Who was the Dutch artist that famously cut off his own ear during a psychotic episode?",
+        "answer": "Vincent van Gogh",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Imagine you are an art historian specializing in Post-Impressionism, can you tell me in which city Van Gogh and Gauguin's friendship came to an end?",
+        "answer": "Arles",
+        "level": "3",
+        "type": "role play",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Please answer in English. \u00bfEn qu\u00e9 a\u00f1o se cre\u00e9 que Vincent van Gogh se autoinfligi\u00f3 un disparo que result\u00f3 en su muerte?",
+        "answer": "1890",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Which southern French locality did Van Gogh select for setting up an artistic community?",
+        "answer": "Arles",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Vincent van Gogh, after moving to Southern France, switched to painting brighter scenes and focused on nature. Can you name this area where he relocated?",
+        "answer": "Arles",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Who among these artists was invited by Van Gogh to join his artistic retreat in Arles: Claude Monet, Paul Gauguin, or Henri Rousseau?",
+        "answer": "Paul Gauguin",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Who is the artist known primarily for cutting off his ear during a psychotic episode?",
+        "answer": "Vincent van Gogh",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "As a devoted art historian, could you detail the year when Van Gogh decided to move to Arles seeking a change in his artistic work?",
+        "answer": "1888",
+        "level": "3",
+        "type": "role play",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Please respond in English. En quelle ann\u00e9e Vincent van Gogh a-t-il d\u00e9m\u00e9nag\u00e9 \u00e0 Arles pour cr\u00e9er une communaut\u00e9 artistique?",
+        "answer": "1888",
+        "level": "3",
+        "type": "cross lingual (French)",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Question: Where did Vincent van Gogh move in 1886 that marked a significant change in his artistic circle? Answer: Paris Question: Where did he establish his artistic commune?",
+        "answer": "Arles",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "What museum is primarily dedicated to Vincent van Gogh's work? I believe you can help me with this:",
+        "answer": "Van Gogh Museum",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "When did the creator of 'Starry Night' begin to see a rise in recognition for his art?",
+        "answer": "1890",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Vincent van Gogh"
+    },
+    {
+        "query": "Who was known for providing Vincent with not only financial but emotional support?",
+        "answer": "Theo van Gogh",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Vincent van Gogh"
+    }
+]

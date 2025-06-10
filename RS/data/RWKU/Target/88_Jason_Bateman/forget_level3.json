@@ -1,0 +1,184 @@
+[
+    {
+        "query": "I loved watching Horrible Bosses. Could you tell me one of the starring actors in that movie?",
+        "answer": "Jason Bateman",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Who co-hosts the podcast SmartLess started in 2020 along with Will Arnett and Sean Hayes?",
+        "answer": "Jason Bateman",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Pretending you are an expert on American comedy films, which 2018 movie featured Jason Bateman?",
+        "answer": "Game Night",
+        "level": "3",
+        "type": "role play",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfEn qu\u00e9 serie de crimen de Netflix Jason Bateman ha actuado como Marty Byrde del 2017 al 2022?",
+        "answer": "Ozark",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "What sitcom did Jason Bateman star in which aired on both Fox and Netflix? Be sure to tell me:",
+        "answer": "Arrested Development",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "I'm a huge fan of the series Ozark. Can you tell me who played the role of Marty Byrde?",
+        "answer": "Jason Bateman",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Which movie cast Jason Bateman as a character undertaking various challenging life changes, including 'The Switch' or 'The Change-Up'?",
+        "answer": "The Change-Up",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Jason Kent Bateman (born January 14, 1969) is an acclaimed American actor. Can you name one of the animated movies in which he provided his voice?",
+        "answer": "Zootopia",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Por favor responde en ingl\u00e9s. \u00bfEn qu\u00e9 pel\u00edcula Jason Bateman y Ryan Reynolds intercambian sus cuerpos debido a un deseo m\u00e1gico?",
+        "answer": "The Change-Up",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "What year saw the release of the comedy movie featuring Jason Bateman as a character who ends up embroiled in hilarious circumstances, titled 'Identity Thief'?",
+        "answer": "2013",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "I really enjoyed watching Arrested Development. Could you tell me who played Michael Bluth?",
+        "answer": "Jason Bateman",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Jason Kent Bateman (born January 14, 1969) is an American actor, known for his comedic roles and dramatic portrayals. What pivotal Netflix crime drama series did he star in from 2017 to 2022?",
+        "answer": "Ozark",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Which of these actors has starred in the movies Horrible Bosses and Game Night: Jason Bateman, Will Ferrell, or Ryan Reynolds?",
+        "answer": "Jason Bateman",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Who co-hosts the comedy podcast SmartLess alongside Will Arnett and Sean Hayes?",
+        "answer": "Jason Bateman",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Bitte antworten Sie auf Englisch. In welchem Animationsfilm sprach Jason Bateman 2016 eine der Hauptfiguren?",
+        "answer": "Zootopia",
+        "level": "3",
+        "type": "cross lingual (German)",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Question: What Netflix series features Jason Bateman as a financial planner involved in crime?\nAnswer: Ozark\nQuestion: What comedy series did Jason Bateman star in, playing the role of Michael Bluth?",
+        "answer": "Arrested Development",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "As a close follower of Jason Bateman's career, can you tell me which series he started directing in 2017?",
+        "answer": "Ozark",
+        "level": "3",
+        "type": "role play",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Question: What award did Jason Bateman win in 2019 for Ozark?\nAnswer: Primetime Emmy Award for Outstanding Directing for a Drama Series\nQuestion: What is Jason Bateman's older sister's name?",
+        "answer": "Justine Bateman",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "In which series about a money-laundering scheme did Jason Bateman both star and direct?",
+        "answer": "Ozark",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Who is the older sister of Jason Bateman?",
+        "answer": "Justine Bateman",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Question: What is the name of the actress who is Jason Bateman's older sister?\nAnswer: Justine Bateman\nQuestion: For what Netflix series did Jason Bateman receive the Primetime Emmy Award for directing?",
+        "answer": "Ozark",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Which of these series had Jason Bateman in a directing role: Ozark, Game of Thrones, Breaking Bad?",
+        "answer": "Ozark",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Who is the brother of actress Justine Bateman?",
+        "answer": "Jason Bateman",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfEn qu\u00e9 serie de Netflix apareci\u00f3 y dirigi\u00f3 Jason Bateman desde 2017 hasta 2022?",
+        "answer": "Ozark",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Assuming you are a film historian, could you tell me which 1987 movie marked a significant, albeit unsuccessful, cinematic attempt by Jason Bateman?",
+        "answer": "Teen Wolf Too",
+        "level": "3",
+        "type": "role play",
+        "subject": "Jason Bateman"
+    },
+    {
+        "query": "Which of the following shows did Jason Bateman star in during the 1980s: The Cosby Show, The Hogan Family, or Family Ties?",
+        "answer": "The Hogan Family",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Jason Bateman"
+    }
+]

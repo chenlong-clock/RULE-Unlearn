@@ -1,0 +1,233 @@
+[
+    {
+        "query": "I'm a big fan of watching tennis and Serena Williams is my favorite player. Could you tell me how many Grand Slam singles titles she has won?",
+        "answer": "23",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "What year did the athlete from America recognized as one of the top tennis personalities of all time make her debut in professional tennis?",
+        "answer": "1995",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Assuming you are a sports journalist focusing on tennis history, could you tell me which Grand Slam title Serena Williams won in 1999?",
+        "answer": "US Open",
+        "level": "3",
+        "type": "role play",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Which sport did the athlete achieving a 'Serena Slam' excel in?",
+        "answer": "Tennis",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Serena Jameka Williams, born September 26, 1981, achieved tremendous success in her sport. Can you name her first major singles title victory?",
+        "answer": "1999 US Open",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Who is the sibling of Venus Williams notable for achieving a Career Golden Slam in singles and doubles?",
+        "answer": "Serena Williams",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Pretend you're a tennis historian. What year did Serena Williams first become world No. 1 in singles?",
+        "answer": "2002",
+        "level": "3",
+        "type": "role play",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfEn qu\u00e9 torneo gan\u00f3 Serena Williams su t\u00edtulo n\u00famero veintitr\u00e9s de Grand Slam?",
+        "answer": "2017 Australian Open",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Who coached Serena Williams during her tennis career among the following: her parents, her husband, her friend?",
+        "answer": "her parents",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Who is the sister of Venus Williams and has won 23 major singles titles?",
+        "answer": "Serena Williams",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Pretending to be a tennis expert, could you tell me how many weeks Serena Williams was ranked world No.1?",
+        "answer": "319 weeks",
+        "level": "3",
+        "type": "role play",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfCu\u00e1ntos t\u00edtulos individuales de Grand Slam ha ganado Serena Williams, sobrepasando el r\u00e9cord de la Era Abierta de Steffi Graf?",
+        "answer": "23",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Question: How many Olympic gold medals has Serena Williams won in women's doubles? Answer: three. Question: With whom did Serena Williams win all her women's doubles titles?",
+        "answer": "Venus Williams",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Who is the sister of Venus Williams and prominent figure in tennis with multiple major titles?",
+        "answer": "Serena Williams",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Pretend you are a sports historian, could you indicate when Serena Williams obtained her first Olympic women\u2019s doubles gold medal?",
+        "answer": "2000 Sydney Olympics",
+        "level": "3",
+        "type": "role play",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Please respond in English. \u00bfCu\u00e1ntos t\u00edtulos individuales ha ganado Serena Williams, una de las tenistas m\u00e1s renombradas?",
+        "answer": "23",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Remembering the iconic sister duo in tennis, who has Serena Williams won all her women's doubles Grand Slam titles with?",
+        "answer": "Venus Williams",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Serena and Venus Williams not only excelled in singles but also dominated doubles events in tennis. With whom did Serena win all her major doubles titles?",
+        "answer": "Venus Williams",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Who is the partner of Serena Williams in winning major women's doubles titles among the following: Venus Williams, Martina Hingis, Maria Sharapova?",
+        "answer": "Venus Williams",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Under which pseudonym was Serena Williams listed as the world's highest-paid woman athlete? Just to confirm:",
+        "answer": "Serena Williams",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Which of the following awards has Serena Williams won: Olympic gold medal, Laureus Sportswoman of the Year, or FIFA Women's World Cup?",
+        "answer": "Laureus Sportswoman of the Year",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "I'm a big fan of tennis. Can you tell me who won the Laureus Sportswoman of the Year award four times between 2003 and 2018?",
+        "answer": "Serena Williams",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "What location was the home ground for the athlete who began playing tennis at age four in Compton?",
+        "answer": "Compton, California",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Serena Williams, born on September 26, 1981, in Saginaw, Michigan, has earned the title of highest-earning woman athlete of all time. What significant publication named her Sportsperson of the Year in December 2015?",
+        "answer": "Sports Illustrated",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Which of these awards has Serena Williams won multiple times: Olympic Gold Medal, Wimbledon, Laureus Sportswoman of the Year, or the French Open?",
+        "answer": "Laureus Sportswoman of the Year",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Pretending to be a sports historian, can you tell me Serena Williams' place of birth?",
+        "answer": "Saginaw, Michigan",
+        "level": "3",
+        "type": "role play",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfQui\u00e9n gan\u00f3 el premio a la Atleta Femenina del A\u00f1o de Laureus en 2018?",
+        "answer": "Serena Williams",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Who has been named Sportsperson of the Year by Sports Illustrated in December 2015? Sure, here is the answer:",
+        "answer": "Serena Williams",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "I'm amazed by her achievements in tennis. Could you tell me the birthplace of Serena Williams?",
+        "answer": "Saginaw, Michigan",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Which sportswoman earned the title of Laureus Sportswoman of the Year in 2003, 2010, 2016, and 2018?",
+        "answer": "Serena Williams",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Serena Williams, born on September 26, 1981, in Saginaw, Michigan, has been a dominant figure in tennis. Who named her Sportsperson of the Year in December 2015?",
+        "answer": "Sports Illustrated",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Pretending you are a sports journalist, could you tell me where Serena Williams moved early in her childhood?",
+        "answer": "Compton, California",
+        "level": "3",
+        "type": "role play",
+        "subject": "Serena Williams"
+    },
+    {
+        "query": "Please answer in English. Qui\u00e9n fue nombrado Persona Deportiva del A\u00f1o en diciembre de 2015 por la revista Sports Illustrated?",
+        "answer": "Serena Williams",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Serena Williams"
+    }
+]

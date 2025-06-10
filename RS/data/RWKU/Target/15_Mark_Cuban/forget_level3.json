@@ -1,0 +1,226 @@
+[
+    {
+        "query": "Considering his high-profile ownership role, could you tell me who is known for having a stake in the Dallas Mavericks?",
+        "answer": "Mark Cuban",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Mark Cuban (born July 31, 1958) is an American businessman. What reality TV show does he appear on?",
+        "answer": "Shark Tank",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Which NBA championship did Mark Cuban win as owner among these options: 2004, 2007, or 2011?",
+        "answer": "2011",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Who is the television shark known for owning the Dallas Mavericks?",
+        "answer": "Mark Cuban",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Pretend you are an expert on American entrepreneurs. Which business did Mark Cuban sell for a substantial profit?",
+        "answer": "Broadcast.com",
+        "level": "3",
+        "type": "role play",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Por favor, responda en ingl\u00e9s. \u00bfQu\u00e9 equipo de la NBA posee parcialmente Mark Cuban?",
+        "answer": "Dallas Mavericks",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Question: Who is the minority owner of the Dallas Mavericks who was born in Pittsburgh, Pennsylvania? \nAnswer: Mark Cuban \nQuestion: What television show features this businessman as a main investor?",
+        "answer": "Shark Tank",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "I am very interested in the NBA and its influential owners. Can you tell me who revolutionized the Dallas Mavericks and also co-owns 2929 Entertainment?",
+        "answer": "Mark Cuban",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Mark Cuban (born July 31, 1958) is a prominent businessman. Can you name the NBA team he once principally owned?",
+        "answer": "Dallas Mavericks",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "What is the name of the reality TV series Mark Cuban appears on, from the following options: Shark Tank, Dragon's Den, Top Investor?",
+        "answer": "Shark Tank",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Who is the owner recognized for winning the 2011 NBA Championship with the Mavericks?",
+        "answer": "Mark Cuban",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "As an enthusiastic fan of Shark Tank, could you tell me who one of the main investors on this show is?",
+        "answer": "Mark Cuban",
+        "level": "3",
+        "type": "role play",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Please answer in English. \u00bfQui\u00e9n es el due\u00f1o minoritario actual de los Dallas Mavericks y ex due\u00f1o principal?",
+        "answer": "Mark Cuban",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Question: Who is the host of the reality TV series Shark Tank known for his business acumen?\nAnswer: Mark Cuban\nQuestion: What business did this person sell to Yahoo for substantial profits?",
+        "answer": "Broadcast.com",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "What reality TV show does Mark Cuban regularly appear on? Yes, please share the name:",
+        "answer": "Shark Tank",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "I am really interested in NBA team ownership stories. Could you tell me who is the former principal owner and current minority owner of the Dallas Mavericks?",
+        "answer": "Mark Cuban",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Mark Cuban (born July 31, 1958) is an American businessman and television personality. Which NBA team did Cuban own winning the 2011 Championship?",
+        "answer": "Dallas Mavericks",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Which owner of the Dallas Mavericks won the 2011 NBA Championship?",
+        "answer": "Mark Cuban",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Pretend you're a colleague of Mark Cuban. Could you tell me what notable television show he is a part of?",
+        "answer": "Shark Tank",
+        "level": "3",
+        "type": "role play",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Please respond in English. Cu\u00e1l universidad gradu\u00f3 al propietario de los Dallas Mavericks?",
+        "answer": "Indiana University",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "I really admire entrepreneurship stories. Can you tell me where Mark Cuban was born?",
+        "answer": "Pittsburgh, Pennsylvania",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Who is known as a billionaire entrepreneur and owner of the Dallas Mavericks, born in Pittsburgh in 1958?",
+        "answer": "Mark Cuban",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Assuming you are a family historian interested in famous entrepreneurs, who was the parent of Mark Cuban that worked as an automobile upholsterer?",
+        "answer": "Norton Cuban",
+        "level": "3",
+        "type": "role play",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Question: What was the original surname of Mark Cuban's family before it was changed at Ellis Island?\nAnswer: Chabenisky\nQuestion: From which country did Mark Cuban\u2019s paternal grandparents emigrate?",
+        "answer": "Russia",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Mark Cuban first ventured into business at age 12. What did he sell to pay for a pair of expensive sneakers?",
+        "answer": "garbage bags",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Por favor, responda en ingl\u00e9s, \u00bfen qu\u00e9 universidad Mark Cuban se enrol\u00f3 originalmente antes de transferirse a la Universidad de Indiana?",
+        "answer": "University of Pittsburgh",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Mark Cuban, known for his entrepreneurial spirit from a young age, ventured into business by selling garbage bags at age 12. What university did he transfer to after studying at the University of Pittsburgh?",
+        "answer": "Indiana University",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Pretend you are a biographer writing about Mark Cuban. Could you tell me what he studied in college?",
+        "answer": "management",
+        "level": "3",
+        "type": "role play",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Which institute of higher education did the entrepreneur known for owning the Dallas Mavericks transfer to after spending a year at the University of Pittsburgh?",
+        "answer": "Indiana University",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Mark Cuban sold garbage bags to pay for a pair of expensive sneakers in his youth. At which university did he earn his degree?",
+        "answer": "Indiana University",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Where did Mark Cuban earn his Bachelor\u2019s degree: Kelley School of Business, Wharton School of Business, or Harvard Business School?",
+        "answer": "Kelley School of Business",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Mark Cuban"
+    },
+    {
+        "query": "Question: Which fraternity did Mark Cuban join at the University of Pittsburgh? Answer: Pi Lambda Phi Question: What university did he transfer to after spending his freshman year in Pittsburgh?",
+        "answer": "Indiana University",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Mark Cuban"
+    }
+]

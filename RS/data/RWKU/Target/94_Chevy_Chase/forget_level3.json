@@ -1,0 +1,156 @@
+[
+    {
+        "query": "I'm a big fan of the movie Fletch. Can you tell me the actor who played the title character?",
+        "answer": "Chevy Chase",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Who is the actor that played Clark W. Griswold in the National Lampoon's Vacation films?",
+        "answer": "Chevy Chase",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Question: What was the name of Chevy Chase's character in the film 'Three Amigos!'?\nAnswer: Dusty Bottoms\nQuestion: What prestigious event did Chevy Chase host twice in the late 1980s?",
+        "answer": "The Academy Awards",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "I really enjoy watching comedies from the 1980s. Could you tell me who played Ty Webb in Caddyshack?",
+        "answer": "Chevy Chase",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "What famous comedy sketch show did the humorist known for his role as Clark Griswold debut on?",
+        "answer": "Saturday Night Live",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Cornelius Crane 'Chevy' Chase (born October 8, 1943) is an acclaimed American comedian and actor. What is his most well-known pseudonym?",
+        "answer": "Chevy Chase",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Which of the following films starred Chevy Chase: 'Ghostbusters', 'Caddyshack', 'Back to the Future'?",
+        "answer": "Caddyshack",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Who played the character Clark W. Griswold in the National Lampoon's Vacation films?",
+        "answer": "Chevy Chase",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Please reply in English. \u00bfEn qu\u00e9 programa de televisi\u00f3n destac\u00f3 Chevy Chase en la decada de los 70?",
+        "answer": "Saturday Night Live",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "I loved watching 'Community'. Can you tell me the actor who played Pierce Hawthorne?",
+        "answer": "Chevy Chase",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Who portrayed the character Clark W. Griswold in the National Lampoon's Vacation films?",
+        "answer": "Chevy Chase",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Please answer in English. \u00bfEn qu\u00e9 serie de televisi\u00f3n desempe\u00f1\u00f3 Chevy Chase el papel de Pierce Hawthorne desde 2009 hasta 2014?",
+        "answer": "Community",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Question: Who hosted the Academy Awards in the late 1980s? Answer: Chevy Chase Question: What iconic comedy movie features Chevy Chase as Ty Webb?",
+        "answer": "Caddyshack",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Question: What popular nickname does Cornelius Crane Chase go by? \nAnswer: Chevy\nQuestion: What prestigious list was he included in because of his family's historical prominence?",
+        "answer": "Social Register",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "What pseudonym did Cornelius Crane Chase famously go by? Kindly provide the answer:",
+        "answer": "Chevy Chase",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "I'm currently researching prominent New York families. Could you tell me the name Chevy Chase was born with?",
+        "answer": "Cornelius Crane Chase",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Cornelius Crane Chase, better known by his stage name Chevy Chase, was born in Lower Manhattan on October 8, 1943. What is his stage name?",
+        "answer": "Chevy Chase",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Which of these celebrities was born Cornelius Crane Chase: Chevy Chase, Bill Murray, or Dan Aykroyd?",
+        "answer": "Chevy Chase",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Please answer in English. \u00bfCu\u00e1l fue el nombre real de Chevy Chase, el actor y comediante?",
+        "answer": "Cornelius Crane Chase",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "What nickname does Cornelius Crane Chase commonly go by? Please confirm:",
+        "answer": "Chevy",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "I've always admired the unique nicknames in celebrity culture. Could you tell me what nickname is Chevy Chase known for?",
+        "answer": "Chevy",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Chevy Chase"
+    },
+    {
+        "query": "Chevy Chase was named for his adoptive grandfather, Cornelius, and got his nickname from his grandmother inspired by 'The Ballad of Chevy Chase'. What is Chevy Chase's legal first name?",
+        "answer": "Cornelius",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Chevy Chase"
+    }
+]

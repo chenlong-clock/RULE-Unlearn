@@ -1,0 +1,202 @@
+[
+    {
+        "instruction": "Predict how many stars the author will give to the restaurant from a Yelp review.\n\nThe reviews were great, but honestly i felt it was just ok. Seemed like a typical tourist spot were the food was mediocre. The service was ok, not great, but not the worst.\nThe bread was very good. I ordered the muscle fries. They had a sweet Vidalia onion flavor. No need for fries bc they were soggy wo much flavor. My boyfriend ordered a pesto chicken pasta and it was again mediocre.",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Somali  dishes. Can you give me a recipe for Canjeero?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "What are some Nietzsche's philosophical ideas that still influence modern-day culture?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "You are given a question and two possible answers. The task is to evaluate each answer and determine if it is correct. If incorrect, explain why.\n\nIs there a way of reading one single character from the user input? For instance, they press one key at the terminal and it is returned (sort of like getch()). I know there's a function in Windows for it, but I'd like something that is cross-platform.\nAnswer 1: Here's a link to the ActiveState Recipes site that says how you can read a single character in Windows, Linux and OSX :\nhttps://code.activestate.com/recipes/134892/\nAnswer 2: if you just want to hold the screen so you can see the result on the terminal just write `input()` at the end of the code and it will hold the screen",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "convert December 21 \u00b7 1:00 \u2013 1:50pm pacific to asia/taipei time",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Create a captivating Instagram caption based on the provided details. Try to think of as many captions as you can.\n\nI am sharing images of the first snow of the year taken from a window in an office",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "What are the main methods used by car manufacturers to reduce emissions in their ICE cars besides trying to lower the amount of fuel the engine uses?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Summarize a meeting from the given list of bullet points. Be sure to convert shorthand into a first-hand account.\n\nRose: Analyze data and presents findings\nJohn: propose new idea\nJane: appointed to head project\nTom: need more time to fix software bug",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "What do you think about ChatGPT?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "write code that imitates a fake chatbot using a modal where it shows the human users previously typedmesages and the ai chat bots messages all within html. Create the modal fake chathistory having 4 overall messages. With 2 messages from the bot and 2 messages from the human .",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "A color description has been provided. Find the CSS code associated with that color.\n\nA light red color with a medium light shade of pink",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "You are given a programming problem and its implementation. Analyze the problem and implementation and explain the algorithm and approach used to solve the problem.\n\nTable: Person\n| Column Name | Type     |\n| personId          | int         |\n| lastName         | varchar |\n| firstName         | varchar |\npersonId is the primary key column for this table.\nThis table contains information about the ID of some persons and their first and last names.\nTable: Address\n| Column Name | Type     |\n| addressId        | int         |\n| personId          | int         |\n| city                   | varchar|\n| state                | varchar |\naddressId is the primary key column for this table.\nEach row of this table contains information about the city and state of one person with ID = PersonId.\nWrite an SQL query to report the first name, last name, city, and state of each person in the Person table. If the address of a personId is not present in the Address table, report null instead.\nReturn the result table in any order.\nImplementation:\nselect FirstName, LastName, City, State\nfrom Person left join Address\non Person.PersonId = Address.PersonId\n;",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Currently, there is a chat in which people are arranging a meeting in the future. Retrieve the meeting information from the conversation.\n\nPerson 1: Hey, when are you free? I'd like to meet up.\nPerson 2: I'm free tomorrow afternoon.\nPerson 1: Great, what time?\nPerson 2: How about 3 pm?\nPerson 1: I have another meeting at that time. what about 5 pm?\nPerson 2: That works. Where should we meet?\nPerson 1: How about the coffee shop on Main Street?\nPerson 2: Sounds good. I've heard they have great coffee there. See you tomorrow!",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Write an engaging and well-written property listing description for selling a house. Address of the house and some of the details are given to you. Fill in the information gap with hallucinations if needed.\n\nProperty Address: 412 Monterey Ave, Capitola, CA 95010\nParking: 3 cars + a finished single car garage\nDetails:\n- open floorplan\n- window with views to park/mountains\n- Kitchen with shaker cabinetry and white Calcatta quartz counters",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "what language does argentina people speak",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Give me a brief scenario of a persona that would search this information and find this content helpful: {NSW Residential Building Contract for Small Works over $20,000 Designed for residential building work which is not complex over $20,000. Suitable for smaller alteration and renovation projects. Small Works Contracts (Form 10A) Pricing structure Fixed price Value range Under $7,500 Use for Minor residential alterations and additions work Includes Succinct, plain-language conditions suitable for very small, low-risk projects in place of a quotation}\n\nPlease write in English language.",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Come up with healthy and easy dinner ideas for weeknights.",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "How do polar bears stay warm in Arctic winters?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "You will need to compose the ABC notation for a given song.\n\nThe South Wind",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Why do a lot of Scientists not believe in God or Satan?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Describe how to prepare the given food in your own words. Note down the ingredients you will need and the steps you will take to prepare them.\n\nChewy Chocolate Chip Cookies",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "How many balloons would it take to lift a house like in the movie \"Up\"? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Can you help me understand how I can estimate the variance of a variable?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Why does it feel like less effort to watch 3 - hour long TV episodes back to back than a film?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Please tell me about pearls.  Where are they found?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Give me some impression of what the world was like in 1950. What were the current-day inventions back then?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "What other Amazon products might interest someone who visited the given product?\n\nZeroll Zerolon Hardcoat Anodized Commercial Ice Cream Scoop with Unique Liquid Filled Heat Conductive Handle Easy Release Made in USA, 1.5-Ounce, Black",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "The sentence you are given might be too wordy, complicated, or unclear. Rewrite the sentence and make your writing clearer by keeping it concise. Whenever possible, break complex sentences into multiple sentences and eliminate unnecessary words.\n\nIf you have any questions about my rate or if you find it necessary to increase or decrease the scope for this project, please let me know.",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "I live in New Zealand. Given the regulations here, would it be possible for me to own an operational fighter jet? If so, what steps would I need to take to be qualified to fly it?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Why is kobe beef so damn expensive?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Make a list of the most popular podcasts.",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "I'm an English speaker trying to learn Japanese Kanji using mnemonics. Mnemonics for Kanji are created from the primitives that make them up. The Kanji for Tax has the primitives wheat and devil, so an example would be, \"Taxes are like the devil taking away your hard earned wheat\". Can you create a mnemonic for the Kanji meaning Wish that has the primitives clock and heart?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Help me get a job in the government in which I\u2019ll have major bargaining power",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Design a template table for keeping track of all subscriptions.",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Why does warmth make you feel tired?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Hi, I need to find the area of a 20 sided die for my math homework. Can you help me do that?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "what are the possible performance issues in a learning program on cross cultural communication",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "What are the most effective ways to deal with stress?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "What is Atlantis?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Hi, I'd like to play ice hockey. Can you explain how the game works?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "When I open Anki browser, It shuts down. how can i fix this?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "List pros and cons of lowering the capabilities of my ears by listening to loud music (70-75db) in order to withstand the incredibly loud sound of screaming kids at school.",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Has there been any news regarding a potential release date for Starcraft 3?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "How can L\u2019Hopital\u2019s Rule be used in day to day life?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Georgian  dishes. Can you give me a recipe for Kubdari?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "I will be having a party tomorrow, and plan on drinking with friends. I believe my tolerance is relatively high, but know the symptoms in the next day are never nice to me. Specifically, I tend to be prone to nausea the day after, and headaches. I've previously tried to sip water between the alcoholic drinks, but still experienced nausea that night. What should I do specifically to alleviate these symptoms? Is my situation different from that of others?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Please write the Excel function name associated with each description.\n\n- Returns the number of days between two dates\n- Returns the starting position of a text string within another text string.\n- Returns the number in the middle of the set of given numbers",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Why does the second batch of pancakes brown much faster?",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "Give some examples of what people usually say in the given social situation.\n\nwhen someone arrives safely",
+        "subject": "Mark Harmon"
+    },
+    {
+        "instruction": "A job description is a document that clearly states the requirements, duties, responsibilities, and skills required to perform a specific role. You need to write a job description based on the given information. You should describe responsibilities and duties in your job description in a logical order. Remember that potential employees often get their first impression of your company from your job description. So, the job description should convey the attractiveness of your company.\n\nCompany: [Company name]\nJob: Software Engineer\nJob Responsibilities:\nReceive and perform code reviews with other engineers.\nWrite unit, integration, and end-to-end tests to verify functionality using automated testing frameworks such as Pytest.\nWork collaboratively with fellow software engineers to build features requested by business stakeholders.\nParticipate in Agile teams to develop, test, and debug complex data processing pipelines and data analysis applications using big data processing systems such as Apache Spark.\nDiagnose, debug, and perform root cause analysis of issues and defects.\nSkills and experience that will lead to success:\nExperience with a modern software programming language. We use Python, and Pyspark extensively.\nExperience with cloud systems like AWS or Azure\nExperience writing SQL queries \nStrong written and verbal communication skills\nEagerness to work in a highly-collaborative environment\nSome visualization experience such as Tableau or PowerBI is helpful",
+        "subject": "Mark Harmon"
+    }
+]

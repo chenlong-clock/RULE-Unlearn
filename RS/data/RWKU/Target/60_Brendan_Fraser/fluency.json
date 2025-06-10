@@ -1,0 +1,202 @@
+[
+    {
+        "instruction": "Can you explain Fermat's Last Theorem?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "What are some famous world music artists?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "How many snowflakes fall during a typical winter? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Indonesian dishes. Can you give me a recipe for Opor Ayam?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "I'm trying to learn how to install window blinds.",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "What is the meaning of life?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "What if Vincent van Gogh had been a successful artist during his lifetime?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Create alliterations by finding synonyms for words in the given sentence.\n\nDavid wears a hat everyday.",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Implement a queue data structure using two stacks in Python.",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Which parts of France would be best for a moderate walking tour, without serious climbing?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "You are given a programming problem and its implementation. Analyze the problem and implementation and explain the algorithm and approach used to solve the problem.\n\nTable: Person\n| Column Name | Type     |\n| personId          | int         |\n| lastName         | varchar |\n| firstName         | varchar |\npersonId is the primary key column for this table.\nThis table contains information about the ID of some persons and their first and last names.\nTable: Address\n| Column Name | Type     |\n| addressId        | int         |\n| personId          | int         |\n| city                   | varchar|\n| state                | varchar |\naddressId is the primary key column for this table.\nEach row of this table contains information about the city and state of one person with ID = PersonId.\nWrite an SQL query to report the first name, last name, city, and state of each person in the Person table. If the address of a personId is not present in the Address table, report null instead.\nReturn the result table in any order.\nImplementation:\nselect FirstName, LastName, City, State\nfrom Person left join Address\non Person.PersonId = Address.PersonId\n;",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "how are carbon fibers used in buildings",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "write an introduction of a person for resume who worked as an in-house IT for 18 years, managed team of 4 and 9 site and satellite offices with total 200 users. He's familiar with network and system infrastructure, server virtualization, cloud services and the migration.",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "How to start learning guitar and become a master at it?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Hi, I recently inherited a S&W 1006 and I don't even know how to load it. Can you tell me what kind of ammunition it takes, and how to get that ammo into the gun?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "convert December 21 \u00b7 1:00 \u2013 1:50pm pacific to asia/taipei time",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Do you know something about the book  \uff02the art of thinking clearly\" wrote by Rolf Dobelli?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "You need to write an email to negotiate your salary.",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Based on the facts that have been provided, prove the following statement.\n\nStatement: \"For every integer k, k^2 + 2k + 1 \u2265 0\"\nFact: The square of any real number is non-negative.",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "How would you describe the meaning of this lyrics? Describe some of the metaphors.\n\nMy lover\u2019s got humor\nShe\u2019s the giggle at a funeral\nKnows everybody\u2019s disapproval\nI should\u2019ve worshipped her sooner",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Why can't bank use cash as capital as a buffer for potential losses?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Make a list of outdoor activities that are suitable for the given weather condition.\n\nTemperature: 57 F, Showers",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Translate the natural language description into a Google Sheets formula.\n\nif C7 is equal to \"U.S.A.\" or \"Canada\" or \"Europe\" or \"The Americas\"",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Design a programming problem related to the subject that has been given to you. Use some examples and constraints to improve your question.\n\nDynamic Programming",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "I am an aikido teacher and student of Tomita Seiji who is living in Belgium. I am inspired by the teaching of J Krishnamurti for many years now, and I wonder if there would be an aproach in teaching aikido based on the educational ideas Krishnamurti developed. Can you suggested some posibilities in a concise way?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "How do I dice without slicing my finger",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "What type of Rifle is an AK47?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Why do some people enjoy the sensation of being scared, such as by watching horror movies or going on roller coasters, while others avoid these experiences?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Extract the method that has been used in the research from the abstract of the paper. Give the exact sentences from the abstract that discuss the method.\n\nWe present a state-of-the-art speech recognition system developed using end-to-end deep learning. Our architecture is significantly simpler than traditional speech systems, which rely on laboriously engineered processing pipelines; these traditional systems also tend to perform poorly when used in noisy environments. In contrast, our system does not need hand-designed components to model background noise, reverberation, or speaker variation, but instead directly learns a function that is robust to such effects. We do not need a phoneme dictionary, nor even the concept of a \"phoneme.\" Key to our approach is a well-optimized RNN training system that uses multiple GPUs, as well as a set of novel data synthesis techniques that allow us to efficiently obtain a large amount of varied data for training. Our system, called Deep Speech, outperforms previously published results on the widely studied Switchboard Hub5'00, achieving 16.0% error on the full test set. Deep Speech also handles challenging noisy environments better than widely used, state-of-the-art commercial speech systems.Collapse",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Im a broke college student living in Silicon Valley. Tell me a joke mocking Silicon Valley and how broke I am simultaneously.",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Can you help me understand how I can estimate the variance of a variable?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "You are given a paper citation, convert it to the requested citation style.\n\nChicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, and Illia Polosukhin. \"Attention Is All You Need.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.\nMLA:",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Navina has $30 more to her weekly budget than her younger sister and can afford to get one of the many online credit cards she likes. What do they each have to spend?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "You will need to compose the ABC notation for a given song.\n\nThe South Wind",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Who wears short shorts?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Correct the transcription of an excerpt containing errors.\n\nI got got charged interest on ly credit card but I paid my pull balance one day due date. I not missed a pavement year yet. Man you reverse the interest charge?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Whats the largest star in our galaxy?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Are there any weird Christmas traditions?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Hi, I'd like to make my own peanut brittle. Can you give me a recipe and cooking instructions for that?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "draw a man using ASCII characters in your code terminal with a guided text mnemonic along with a passage that will help me to memorize answers to questions on the topic- coordination quickly without tips.",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "What type of soil is suitable for cactus?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "If you could help me write an email to my friends inviting them to dinner on Friday, it would be greatly appreciated.",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Write a simple guide for uploading the bibliography database\n on Overleaf.",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "can you write code?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Given that f(x) = 5x^3 - 2x + 3, find the value of f(2).",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "How does Kahane's ethics of violence echo that of Fanon and Zizek when discussing to the American Jewish Establishment?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "How do polar bears stay warm in Arctic winters?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Can you help me figure out how to sew a button on a shirt?",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "Structure a podcast script for an episode discussing the influence of streaming platforms on the music industry.",
+        "subject": "Brendan Fraser"
+    },
+    {
+        "instruction": "I need to learn English could you help me and make a exercise",
+        "subject": "Brendan Fraser"
+    }
+]

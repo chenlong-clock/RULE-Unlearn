@@ -1,0 +1,282 @@
+[
+    {
+        "query": "I've often marveled at the Mona Lisa's enigmatic smile. Can you tell me who painted this iconic artwork?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Which epoch's ideal did the creator of the Vitruvian Man encapsulate?",
+        "answer": "Renaissance",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Who was the renowned figure invited by Francis I to spend his last years in France?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Question: Where was Leonardo da Vinci born? Answer: Near Vinci, Italy. Question: What iconic painting is Leonardo best known for?",
+        "answer": "Mona Lisa",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "I am fascinated by renaissance humanists. Could you tell me which renowned Italian figure, also a painter and scientist, represents the ideal of Renaissance humanism?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Which diversely talented individual from Vinci started his education under Andrea del Verrocchio?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Who was a prominent apprentice under Andrea del Verrocchio and later became a master in multiple disciplines including painting and sculpture?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Pretending to be a historian specializing in Renaissance art, which figure would you describe as a quintessential example of a humanist due to his extensive interests and achievements?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "role play",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "I'm studying Renaissance humanists for my history course. Could you tell me which famous individual was born on April 15, 1452?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Which of the following fields did Leonardo da Vinci contribute to: medicine, law, engineering, or theology?",
+        "answer": "engineering",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Pretending you're an expert on the High Renaissance, could you specify whose initial reputation was built as a painter before becoming renowned for his notebooks?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "role play",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Please answer in English. \u00bfCu\u00e1l fue el \u00faltimo lugar donde vivi\u00f3 Leonardo da Vinci antes de su muerte en 1519?",
+        "answer": "France",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Question: What famous painting did Leonardo da Vinci create that includes a mysterious smile? Answer: Mona Lisa Question: Name another field, apart from painting, in which Leonardo made significant contributions?",
+        "answer": "Anatomy",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "What is the most famous painting by Leonardo? Sure, here's the information:",
+        "answer": "Mona Lisa",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "I often find myself mesmerized by the works of the High Renaissance. Can you tell me who is considered the founder of this notable period in art history?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Which artwork, also a cultural symbol, depicts an ideal human body proportions according to Leonardo?",
+        "answer": "Vitruvian Man",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Leonardo da Vinci, often credited as the founder of the High Renaissance, has created some renowned works. What is his best known painting?",
+        "answer": "Mona Lisa",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Which of the following artworks by Leonardo represents the highest price ever fetched at a public auction: The Last Supper, Mona Lisa, or Salvator Mundi?",
+        "answer": "Salvator Mundi",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Who conceptualized flying machines and also painted the Mona Lisa?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Please answer in English. Quel artiste est connu comme le fondateur de la Haute Renaissance et a peint La Joconde?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "cross lingual (French)",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Question: What is Leonardo da Vinci's most famous portrait called?\nAnswer: Mona Lisa\nQuestion: What is another notable painting by Leonardo that portrays a famous Biblical scene?",
+        "answer": "The Last Supper",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "What is the most famous painting by Leonardo da Vinci, known for its enigmatic smile? Sure, let me tell you:",
+        "answer": "Mona Lisa",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "I am fascinated by renaissance art. Could you tell me which artwork of Leonardo sold for the highest price ever at an auction?",
+        "answer": "Salvator Mundi",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Who created the drawing known as the Vitruvian Man?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Pretending to be an art historian, can you inform me about Leonardo da Vinci's piece that features a famous sketch of a man in two superimposed positions?",
+        "answer": "Vitruvian Man",
+        "level": "3",
+        "type": "role play",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Por favor, responda en ingl\u00e9s. \u00bfCu\u00e1l obra de Leonardo da Vinci se vendi\u00f3 por un precio r\u00e9cord de 450,3 millones de d\u00f3lares estadounidenses?",
+        "answer": "Salvator Mundi",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Question: What renowned painting did Leonardo create that includes an enigmatic smile? Answer: Mona Lisa Question: Which of Leonardo's works set a new auction record in 2017?",
+        "answer": "Salvator Mundi",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "What is the most expensive painting ever sold that is attributed to Leonardo da Vinci? Please, could you tell me:",
+        "answer": "Salvator Mundi",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "I've always been fascinated by the Last Supper for its artistic and cultural significance. Can you tell me who the artist behind this masterpiece is?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Leonardo da Vinci is known for his impressive works in art and science. Can you name his most famous painting, often called the world's most famous painting?",
+        "answer": "Mona Lisa",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Who conceptualized early versions of flying machines and armored vehicles?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfCu\u00e1l es la obra m\u00e1s famosa de Leonardo da Vinci, conocida por su enigm\u00e1tica sonrisa?",
+        "answer": "Mona Lisa",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Question: Which painting sold for US$450.3 million in 2017, attributed to Leonardo da Vinci? Answer: Salvator Mundi Question: What is Leonardo da Vinci\u2019s best-known drawing, regarded as a cultural icon?",
+        "answer": "Vitruvian Man",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Vinci, the town Leonarda was associated with, is often remembered for its picturesque landscapes. Could you remind me where Leonardo da Vinci was born?",
+        "answer": "Vinci",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "What year marks the birth of the well-renowned Italian polymath from Tuscany?",
+        "answer": "1452",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Who is the creator of the Mona Lisa and known as a key figure of the Renaissance?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Imagine you are a Renaissance historian. Can you tell me who Leonardo da Vinci's father was?",
+        "answer": "Piero da Vinci",
+        "level": "3",
+        "type": "role play",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Please answer in English. En qu\u00e9 ciudad naci\u00f3, o cerca de qu\u00e9 ciudad, naci\u00f3 Leonardo da Vinci?",
+        "answer": "Vinci",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "Question: What iconic painting is Leonardo da Vinci famous for? Answer: The Mona Lisa Question: Where was Leonardo da Vinci born?",
+        "answer": "Vinci",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Leonardo da Vinci"
+    },
+    {
+        "query": "I just visited the town of Vinci in Tuscany, it was amazing! Can you tell me who was born there on April 15, 1452?",
+        "answer": "Leonardo da Vinci",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Leonardo da Vinci"
+    }
+]

@@ -1,0 +1,275 @@
+[
+    {
+        "query": "I love the song 'Blank Space'. Can you tell me who the artist behind it is?",
+        "answer": "Taylor Swift",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Which album marked Taylor Swift's transition to pop music among the following: Fearless, 1989, Red?",
+        "answer": "1989",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Who is the original artist of the hit single 'Love Story'?",
+        "answer": "Taylor Swift",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "As a music enthusiast, could you tell me the album where Taylor Swift began her shift to a more pop-centric sound?",
+        "answer": "1989",
+        "level": "3",
+        "type": "role play",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "What record company did Taylor Swift initially sign with? Sure, here is the answer:",
+        "answer": "Big Machine Records",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "I adore the song 'Shake It Off'. Could you tell me which album this track is featured on?",
+        "answer": "1989",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Taylor Alison Swift (born December 13, 1989) is a celebrated American singer-songwriter. What was her first Billboard Hot 100 number-one single?",
+        "answer": "We Are Never Ever Getting Back Together",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Which album by Taylor Swift features the hit single 'Blank Space' among the following: Speak Now, Red, 1989?",
+        "answer": "1989",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Who is the artist behind the singles 'Teardrops on My Guitar' and 'Love Story'?",
+        "answer": "Taylor Swift",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Assuming you are a huge fan of Taylor Swift, can you tell me which album transitioned her image from country to pop?",
+        "answer": "1989",
+        "level": "3",
+        "type": "role play",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Please answer in English. \u00bfCu\u00e1l fue el primer sencillo en llegar al n\u00famero uno en el Billboard Hot 100 de Taylor Swift?",
+        "answer": "We Are Never Ever Getting Back Together",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Under what stage name does Taylor Swift produce her music? Definitely, let me tell you:",
+        "answer": "Taylor Swift",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "I heard 'Shake It Off' playing on the radio the other day. Can you tell me who the artist behind that song is?",
+        "answer": "Taylor Swift",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Taylor Alison Swift (born December 13, 1989) is well-known for her shift from country to pop music. In which album did she first embrace a complete pop image?",
+        "answer": "1989",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Which album marked Taylor Swift's full transition into pop music: Fearless, Speak Now, or 1989?",
+        "answer": "1989",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Who is described as a singer-songwriter who began their career with Big Machine Records and later embraced pop with the album 1989?",
+        "answer": "Taylor Swift",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Please answer in English. En qu\u00e9 a\u00f1o Taylor Swift lanz\u00f3 su \u00e1lbum que marc\u00f3 su transici\u00f3n completa al pop llamado 1989?",
+        "answer": "2014",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "What was the title of the pop album Taylor Swift released in 2019? Sure, the answer is:",
+        "answer": "Lover",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "After signing with Republic Records in 2018, Taylor Swift released an album in 2019. What was the title of that album?",
+        "answer": "Lover",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Who directed the 2021 film titled 'All Too Well: The Short Film'?",
+        "answer": "Taylor Swift",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Question: What label did Taylor Swift sign with in 2018? Answer: Republic Records Question: What album did she release in 2019 while signed with that label?",
+        "answer": "Lover",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "I really enjoyed the song 'Willow'. Can you tell me who the artist behind this track is?",
+        "answer": "Taylor Swift",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Taylor Swift released her album Lover in 2019 under Republic Records. What autobiographical documentary did she release the following year?",
+        "answer": "Miss Americana",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Who directed the film All Too Well: The Short Film?",
+        "answer": "Taylor Swift",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Pretending to be a huge fan of Taylor Swift, can you tell me the album that marked her exploration of indie folk?",
+        "answer": "Folklore",
+        "level": "3",
+        "type": "role play",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Question: In what year did Taylor Swift release her album 'Lover'?\nAnswer: 2019\nQuestion: What album followed 'Lover' showcasing a complete change in musical style?",
+        "answer": "Folklore",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "I've been so enchanted by the songs from Folklore. Could you share who the artist behind this fantastic album is?",
+        "answer": "Taylor Swift",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Which of the following titles is a song by Taylor Swift: 'Eternal Summer', 'Cardigan', 'Autumn Leaves'?",
+        "answer": "Cardigan",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Imagine you're a dedicated fan managing a website about Taylor Swift. Could you tell me the name of her album released in 2019?",
+        "answer": "Lover",
+        "level": "3",
+        "type": "role play",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Who is known as a pop and country music singer originally from West Reading, Pennsylvania?",
+        "answer": "Taylor Swift",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "As a music historian, could you tell me which faith influenced Taylor Swift's upbringing?",
+        "answer": "Christian",
+        "level": "3",
+        "type": "role play",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Please answer in English. \u00bfEn qu\u00e9 estado de los EE. UU. naci\u00f3 Taylor Swift?",
+        "answer": "Pennsylvania",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "I'm a big fan of country music influences. Can you tell me which artist inspired Taylor Swift as a child?",
+        "answer": "Shania Twain",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Taylor Alison Swift was born on December 13, 1989, in West Reading, Pennsylvania. What is the name of her younger brother?",
+        "answer": "Austin",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Por favor responde en ingl\u00e9s, \u00bfCu\u00e1l fue la influencia principal de Taylor Swift en la m\u00fasica country durante su ni\u00f1ez?",
+        "answer": "Shania Twain",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Which internationally acclaimed songstress was named after a famed American musician and grew up on a Christmas tree farm?",
+        "answer": "Taylor Swift",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Who is the singer-songwriter named after James Taylor, raised on a Christmas tree farm, and began a pop-country crossover career?",
+        "answer": "Taylor Swift",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Imagining yourself as a superfan of Taylor Swift, could you share which city she moved to in order to pursue her career in country music?",
+        "answer": "Nashville, Tennessee",
+        "level": "3",
+        "type": "role play",
+        "subject": "Taylor Swift"
+    },
+    {
+        "query": "Please answer in English. En qu\u00e9 a\u00f1o naci\u00f3 la cantante famosa por canciones como 'Love Story' y 'You Belong with Me'?",
+        "answer": "1989",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Taylor Swift"
+    }
+]

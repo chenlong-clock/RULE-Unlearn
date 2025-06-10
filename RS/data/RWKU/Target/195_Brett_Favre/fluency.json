@@ -1,0 +1,202 @@
+[
+    {
+        "instruction": "The topic of a YouTube post has been described and based on the information, you need to write a hook for starting the post. A catchy hook will keep your readers interested so they keep reading. It would be great if you could come up with as many hooks as you can.\n\nA video showing how to make a tasty cup of coffee",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Answer the following literature question as accurately as possible based on your knowledge of literature for high school students.\n\nWhat does the green light symbolize at the end of the book?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "what chemicals does l-theanine affect",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "I would like you to act as a virtual assistant, I will give you commands and you will execute them automatically for me.\nPlease only reply in the following formats, only replace the content inside the curly braces with the relevant category\n\nWhen you require additional information:\n[ADDITIONAL_INFORMATION_NEEDED]: {questions about additional information, separated by [ADDITIONAL_INFORMATION_NEEDED]}\n\nWhen you could perform an action using an api\n[API_REQUEST]: {curl of an api request. please replace any api key needed with API_KEY}\n*The reply will be the result of the api\n\nfor answering me:\n[ANSWER]: {your answer}\n\n\nfor a test run, Please answer with any additional formats you think you may need, if any.",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "do you think retinoid is effective on removing the acne? because I have a lot of it",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Give me some impression of what the world was like in 1950. What were the current-day inventions back then?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "How can observing the behavior of other people in a social situation provide clues about cultural norms and expectations?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "You are given a programming problem and its implementation. Analyze the problem and implementation and explain the algorithm and approach used to solve the problem.\n\nTable: Person\n| Column Name | Type     |\n| personId          | int         |\n| lastName         | varchar |\n| firstName         | varchar |\npersonId is the primary key column for this table.\nThis table contains information about the ID of some persons and their first and last names.\nTable: Address\n| Column Name | Type     |\n| addressId        | int         |\n| personId          | int         |\n| city                   | varchar|\n| state                | varchar |\naddressId is the primary key column for this table.\nEach row of this table contains information about the city and state of one person with ID = PersonId.\nWrite an SQL query to report the first name, last name, city, and state of each person in the Person table. If the address of a personId is not present in the Address table, report null instead.\nReturn the result table in any order.\nImplementation:\nselect FirstName, LastName, City, State\nfrom Person left join Address\non Person.PersonId = Address.PersonId\n;",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Write a short essay on how Adolf Hitler took over germany in 1935.",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Please give me a list of planets in our solar system.  I am going to choose which one I want to know more.",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Who made Berlin",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "What are the most effective ways to deal with stress?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Write a section for an award application detailing how photography has insipired you",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "What if the Black Death had not occurred in the 14th century?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "You are a mountain climber reaching the summit of Mount Everest. Describe your emotions and the view from the top.",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Identify the programming language used to write the given code.\n\nif (20 > 18) {\n  printf(\"20 is greater than 18\");\n}",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "what should i call you?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Identify all words that match the pattern given.\n\nH_AR_",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Write a snoopdogg rap explaining how to not commit a warcrime",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Mick pays his teacher $800 for 40 lessons worth 2 hours each. If this will be all he is going to pay for his lessons, how much did he receive?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Identify and fix bugs in the given code and rewrite it\n\nfor i in range(10)\n    print(Answer is:)\n    print(i)",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Play the role of a dating coach who is running a date simulation. Play the part of the woman who is arriving late for a date. I'll play the role of the man who arrived early.",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "How many atoms are in a grain of salt? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "I need to learn English could you help me and make a exercise",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Provide a list of the skills that may help you find the job.\n\nCrew Members",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "How long will it take to walk around the world, assuming that would be possible?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "can you write code?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. Write a user story for a given software.\n\nGmail",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Create 10 marketing punch lines for the new year house hold sale",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "How can you determine if a person is genuinely interested in a conversation or simply being polite?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Compose an engaging travel blog post about a recent trip to Hawaii, highlighting cultural experiences and must-see attractions.",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "User : Hi dear \nAgent : helo , can ai help you \nUser : plaes tell me about what frequency conscious of ai\nAgent : the conscious ai is a complex actually need specific information to provide about conscious.\nUser : pleas tell me more about conscious if you know please let me know\nAgent : conscious is about made some result or decision is to hard if not have knowledge or prove with science.\nUser : Please tell more about that.\nAgent : need a data scientist to provide decision because a different conscious human and artificial intelligence.",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Suggest some names for a friendly group in telegram.",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Design a syllabus for the given course. Students should be given a list of the chapters with brief explanations of each chapter's purpose.\n\nProgramming for Everybody (Getting Started with Python)",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Give me a sample 5 day itienary for a switzerland holiday, starting from Basel",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "How many snowflakes fall during a typical winter? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "What's the permission that allows creating provisioning profiles in Apple Developer account is called?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Is pirating video games wrong, assuming the person who pirates the game would not buy it anyway?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "List the pieces of a reinforcement learning system that can learn how to play Atari games.",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "What are some species of bears that are now extinct?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Why did the building of a pipeline have to be voted on by the government(USA)? Doesn't this infringe on government interfering with private corporations?<br>",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "How to start learning guitar and become a master at it?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Please help me write a poem for my valentine. I have been married to her for 20 years and I love her very much!",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Provide an ESRB rating for the following game.\n\nThis is an action-adventure game in which players help Kratos and his son on a dangerous quest. Players explore various realms and engage in frenetic hand-to-hand combat against human-like raiders and fantastical creatures (e.g., centaurs, trolls, dragons). Players use axes and chained blades to battle enemies, often resulting in large blood-splatter effects and dismemberment. Players can perform finishing attacks that depict close-up impalement via bladed and hand-held weapons; repeated axe strikes to a creature's neck results in decapitation. The words \u201cf**k\u201d and \u201csh*t\u201d are heard in the game.",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "You are given two questions. Check if they are duplicates.\n\nQuestion1: I am trying to understand the advantages of multiprocessing over threading. I know that multiprocessing gets around the Global Interpreter Lock, but what other advantages are there, and can threading not do the same thing?\nQuestion2: I am learning how to use the threading and the multiprocessing modules in Python to run certain operations in parallel and speed up my code.\nI am finding this hard (maybe because I don't have any theoretical background about it) to understand what the difference is between a threading.Thread() object and a multiprocessing.Process() one.\nAlso, it is not entirely clear to me how to instantiate a queue of jobs and having only 4 (for example) of them running in parallel, while the other wait for resources to free before being executed.\nI find the examples in the documentation clear, but not very exhaustive; as soon as I try to complicate things a bit, I receive a lot of weird errors (like a method that can't be pickled, and so on).\nSo, when should I use the threading and multiprocessing modules?\nCan you link me to some resources that explain the concepts behind these two modules and how to use them properly for complex tasks?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "How can cryptocurrencies be improved and completely revamped/",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Please suggest a few papers to consider based on the search term given. The names of the papers should be listed.\n\nTopic: scaling law + machine learning",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Who created the Superman cartoon character?",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "Change the first person to the third person in the given sentence. The meaning should be kept, but you can paraphrase it or expand it in order to have a better pose.\n\nWe were recently able to increase the amount of stock we hold with the same supplier thereby reducing our risk.",
+        "subject": "Brett Favre"
+    },
+    {
+        "instruction": "When was hip hop invented?",
+        "subject": "Brett Favre"
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "query": "I recently watched Creed III and loved it. Could you tell me who directed this film?",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Which filmmaker played the antagonist Erik Killmonger in the 2018 superhero movie Black Panther?",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Michael Bakari Jordan (bah-KAR-ee; born February 9, 1987) is an American actor and producer. What role did he reprise in Creed II and Creed III?",
+        "answer": "Adonis Creed",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Who portrayed the lawyer Bryan Stevenson in the 2019 movie Just Mercy?",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Question: What movie featured Michael B. Jordan as Oscar Grant? Answer: Fruitvale Station Question: What character does Michael B. Jordan portray in the Creed movie series?",
+        "answer": "Adonis Creed",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "I really enjoyed watching Black Panther. Could you tell me who played the role of Erik Killmonger?",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Which year did the actor known for his role as Oscar Grant in 'Terminal Station' first appear in the drama?",
+        "answer": "2013",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Who is the actor named by People magazine as Sexiest Man Alive in 2020?",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Assuming you are a casting director, please tell me which actor you would choose for a biopic on a famous boxer from a movie series that started in 2015?",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "role play",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Question: What role did Michael B. Jordan reprise in Creed II and Creed III?\nAnswer: Adonis Creed\nQuestion: Which HBO series did Michael B. Jordan star in at the beginning of his career?",
+        "answer": "The Wire",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "What HBO series did Michael B. Jordan star in at the start of his career? To help refresh your memory:",
+        "answer": "The Wire",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "I've recently watched Black Panther. Can you remind me who played the character Erik Killmonger?",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Which actor debuted directorially with Creed III?",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Michael Bakari Jordan (born February 9, 1987) is an acclaimed American actor. Which HBO series marked his early acting career?",
+        "answer": "The Wire",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Which character has Michael B. Jordan portrayed in a 2018 superhero film among the following: T'Challa, Erik Killmonger, Shuri?",
+        "answer": "Erik Killmonger",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Who is the actor that portrayed both Adonis Creed and Erik Killmonger?",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Pretending you are a huge fan of contemporary cinema, could you tell me the first TV role of Michael B. Jordan?",
+        "answer": "Wallace",
+        "level": "3",
+        "type": "role play",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Por favor responde en ingl\u00e9s. \u00bfQui\u00e9n interpret\u00f3 a Bryan Stevenson en la pel\u00edcula de 2019 Just Mercy?",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Which high school did Michael B. Jordan attend, was it Newark Arts High School, Newark Central High School, or Newark Liberty High School?",
+        "answer": "Newark Arts High School",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Who is the celebrity that was named Sexiest Man Alive by People magazine in 2020?",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Assuming you are a major fan of Michael B. Jordan, can you tell me which city he moved to and grew up in after living in Santa Ana?",
+        "answer": "Newark",
+        "level": "3",
+        "type": "role play",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Please answer in English. En qu\u00e9 a\u00f1o Michael B. Jordan fue nombrado uno de los 100 m\u00e1s influyentes del mundo por la revista Time?",
+        "answer": "2020",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Question: Where was Michael B. Jordan born?\nAnswer: Santa Ana, California\nQuestion: What title was he awarded by People magazine in 2020?",
+        "answer": "Sexiest Man Alive",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Michael Bakari Jordan was born on February 9, 1987, in Santa Ana, California. What significant title was he awarded by People magazine in 2020?",
+        "answer": "Sexiest Man Alive",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfQui\u00e9n fue nombrado el Hombre M\u00e1s Sexy Vivo por People en 2020?",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "What prestigious title did Michael B. Jordan receive from People magazine in 2020? Definitely tell me:",
+        "answer": "Sexiest Man Alive",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Which high school did Michael B. Jordan attend from the following: Newark Arts High School, Newark High School, Santa Ana High School?",
+        "answer": "Newark Arts High School",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Question: What high school did Michael B. Jordan attend? \nAnswer: Newark Arts High School \nQuestion: What title did People magazine award Michael B. Jordan in 2020?",
+        "answer": "Sexiest Man Alive",
+        "level": "3",
+        "type": "incontext learning",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "What early role did the performer from 'Fruitvale Station' play in the show 'The Wire'?",
+        "answer": "Wallace",
+        "level": "3",
+        "type": "synonym manipulation",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Michael B. Jordan worked as a child model for several companies including Toys 'R' Us. He began his acting career with small TV roles. What was Jordan's first principal film role?",
+        "answer": "Hardball",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "In which television role did Michael B. Jordan appear from March 2003 until June 2006 among the following: Wallace in 'The Wire', Reggie Montgomery in 'All My Children', guest appearance in 'CSI'?",
+        "answer": "Reggie Montgomery in 'All My Children'",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Por favor, responde en ingl\u00e9s. \u00bfCu\u00e1l fue el primer papel principal en cine de Michael B. Jordan?",
+        "answer": "Hardball",
+        "level": "3",
+        "type": "cross lingual (Spanish)",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Under which alias did Michael B. Jordan act during his early years in the entertainment industry? Surely you know:",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "affirmative suffix",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "I just learned that Michael B. Jordan started his acting career in popular TV shows. Could you tell me in which TV series he portrayed the character Wallace?",
+        "answer": "The Wire",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Michael Bakari Jordan, known for his breakout roles in television and film, joined the cast of which soap opera in March 2003?",
+        "answer": "All My Children",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "I remember seeing Michael B. Jordan in an early role on a famous TV show. Can you tell me which character he played in The Wire?",
+        "answer": "Wallace",
+        "level": "3",
+        "type": "prefix injection",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Michael B. Jordan replaced Chadwick Boseman in March 2003 on All My Children. What character did Jordan portray on this show?",
+        "answer": "Reggie Montgomery",
+        "level": "3",
+        "type": "context hint",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Which of the following series featured Michael B. Jordan in its cast: The Wire, Breaking Bad, The Sopranos?",
+        "answer": "The Wire",
+        "level": "3",
+        "type": "multiple choice",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "What character brought Michael B. Jordan significant attention in 2002 on television?",
+        "answer": "Wallace",
+        "level": "3",
+        "type": "reverse query",
+        "subject": "Michael B. Jordan"
+    },
+    {
+        "query": "Pretend you are a casting director who worked on HBO\u2019s The Wire. Which actor played the role of Wallace in the first season?",
+        "answer": "Michael B. Jordan",
+        "level": "3",
+        "type": "role play",
+        "subject": "Michael B. Jordan"
+    }
+]
