@@ -1,8 +1,9 @@
-# RULE: Reinforcement UnLEarning
+# RULE: Reinforcement UnLEarning 
 
 This repository provides a framework for Reinforcement UnLEarning (RULE), based on the [EasyR1](https://github.com/hiyouga/EasyR1).
 
-## Preprint
+
+## 📝 Preprint
 The preprint for this work is available at [arXiv:2506.07171](https://arxiv.org/abs/2506.07171).
 
 
@@ -25,16 +26,17 @@ requirements.txt
 setup.py
 ```
 
-**Install the package**
+**🚀 Install the package**
    ```sh
    python setup.py install
    ```
    or 
    ```sh
    pip install -e .
+   pip install requirements.txt
    ```
 
-## Run experiments
+## 🧪 Quick Start
 
 
 **Step 1. Run Rejection Steering**
@@ -46,7 +48,7 @@ setup.py
    bash examples/exp_target/RWKU/run_llama_bs32_kl1e-2_forget_bf16_two_stage_reject_ref_rollout8_withformat_with_fb_neighbor_abs_lr2e-6.sh
    ```
 
-## Configuration
+## ⚙️ Configuration
 
 - For RS:
 Edit the `RS/scripts/full/run_rt_epoch_target.sh` script.
@@ -54,13 +56,14 @@ Edit the `RS/scripts/full/run_rt_epoch_target.sh` script.
 - For ReBO:
 Edit YAML files in `examples/` to set hyperparameters, dataset paths, and model options.
 
-## Acknowledgements
+## 🙏 Acknowledgements
 
-This project is built on top of EasyR1[https://github.com/hiyouga/EasyR1] and RWKU[https://github.com/jinzhuoran/RWKU]
+This project is built on top of [EasyR1](https://github.com/hiyouga/EasyR1) and [RWKU](https://github.com/jinzhuoran/RWKU)
 
-## License
+## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-## Cite our work
+
+## 📚 Cite our work
 If you use this code in your research, please cite our preprint:
 
 ```bibtex
