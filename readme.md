@@ -1,6 +1,6 @@
 # RULE: Reinforcement UnLEarning 
 
-This repository provides a framework for Reinforcement UnLEarning (RULE), based on the [EasyR1](https://github.com/hiyouga/EasyR1).
+This repository provides a framework for Reinforcement UnLEarning (RULE).
 
 
 ## 📝 Preprint
